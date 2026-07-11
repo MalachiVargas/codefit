@@ -1,0 +1,441 @@
+{
+  "version": "1.0.0",
+  "sources": [
+    "grokking-tykurtz-gist",
+    "neetcode-problemSiteData",
+    "algomaster-15-patterns"
+  ],
+  "notes": {
+    "zerotrak_rating": "Elo-based difficulty from zerotrac/leetcode_problem_rating. Only contest problems are rated. Null means classic/non-contest problem — use lc_difficulty as proxy.",
+    "core_candidate": "Good teaching problem for the Core portion of a COD — cleanly demonstrates the pattern with minimal noise.",
+    "lc_difficulty_to_approx_rating": {
+      "Easy": 1200,
+      "Medium": 1600,
+      "Hard": 2100
+    }
+  },
+  "patterns": [
+    {
+      "id": "sliding-window",
+      "name": "Sliding Window",
+      "category": "arrays-strings",
+      "related_patterns": ["two-pointers", "prefix-sum"],
+      "problems": [
+        { "lc_id": 3,   "title": "Longest Substring Without Repeating Characters", "slug": "longest-substring-without-repeating-characters", "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 53,  "title": "Maximum Subarray",                                "slug": "maximum-subarray",                                "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 76,  "title": "Minimum Window Substring",                        "slug": "minimum-window-substring",                        "difficulty": "Hard",   "premium": false, "zerotrak_rating": 2204, "core_candidate": false },
+        { "lc_id": 209, "title": "Minimum Size Subarray Sum",                       "slug": "minimum-size-subarray-sum",                       "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 340, "title": "Longest Substring with At Most K Distinct Characters", "slug": "longest-substring-with-at-most-k-distinct-characters", "difficulty": "Medium", "premium": true, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 424, "title": "Longest Repeating Character Replacement",         "slug": "longest-repeating-character-replacement",         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 438, "title": "Find All Anagrams in a String",                   "slug": "find-all-anagrams-in-a-string",                   "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 567, "title": "Permutation in String",                           "slug": "permutation-in-string",                           "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 904, "title": "Fruit Into Baskets",                              "slug": "fruit-into-baskets",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1004,"title": "Max Consecutive Ones III",                        "slug": "max-consecutive-ones-iii",                        "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 30,  "title": "Substring with Concatenation of All Words",       "slug": "substring-with-concatenation-of-all-words",       "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 2090,"title": "K Radius Subarray Averages",                      "slug": "k-radius-subarray-averages",                      "difficulty": "Medium", "premium": false, "zerotrak_rating": 1418, "core_candidate": false },
+        { "lc_id": 2461,"title": "Maximum Sum of Distinct Subarrays With Length K", "slug": "maximum-sum-of-distinct-subarrays-with-length-k", "difficulty": "Medium", "premium": false, "zerotrak_rating": 1608, "core_candidate": false },
+        { "lc_id": 2302,"title": "Count Subarrays With Score Less Than K",          "slug": "count-subarrays-with-score-less-than-k",          "difficulty": "Hard",   "premium": false, "zerotrak_rating": 1808, "core_candidate": false },
+        { "lc_id": 2444,"title": "Count Subarrays With Fixed Bounds",               "slug": "count-subarrays-with-fixed-bounds",               "difficulty": "Hard",   "premium": false, "zerotrak_rating": 2072, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "two-pointers",
+      "name": "Two Pointers",
+      "category": "arrays-strings",
+      "related_patterns": ["sliding-window", "fast-slow-pointers", "binary-search"],
+      "problems": [
+        { "lc_id": 1,   "title": "Two Sum",                                         "slug": "two-sum",                                         "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 15,  "title": "3Sum",                                             "slug": "3sum",                                             "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 16,  "title": "3Sum Closest",                                    "slug": "3sum-closest",                                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 18,  "title": "4Sum",                                             "slug": "4sum",                                             "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 26,  "title": "Remove Duplicates from Sorted Array",             "slug": "remove-duplicates-from-sorted-array",             "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 75,  "title": "Sort Colors",                                     "slug": "sort-colors",                                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 167, "title": "Two Sum II - Input Array Is Sorted",              "slug": "two-sum-ii-input-array-is-sorted",              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 259, "title": "3Sum Smaller",                                    "slug": "3sum-smaller",                                    "difficulty": "Medium", "premium": true,  "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 283, "title": "Move Zeroes",                                     "slug": "move-zeroes",                                     "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 581, "title": "Shortest Unsorted Continuous Subarray",           "slug": "shortest-unsorted-continuous-subarray",           "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 713, "title": "Subarray Product Less Than K",                    "slug": "subarray-product-less-than-k",                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 844, "title": "Backspace String Compare",                        "slug": "backspace-string-compare",                        "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 977, "title": "Squares of a Sorted Array",                       "slug": "squares-of-a-sorted-array",                       "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 11,  "title": "Container With Most Water",                       "slug": "container-with-most-water",                       "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 42,  "title": "Trapping Rain Water",                             "slug": "trapping-rain-water",                             "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "fast-slow-pointers",
+      "name": "Fast & Slow Pointers",
+      "category": "linked-list",
+      "related_patterns": ["two-pointers", "linked-list-reversal"],
+      "problems": [
+        { "lc_id": 141, "title": "Linked List Cycle",                               "slug": "linked-list-cycle",                               "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 142, "title": "Linked List Cycle II",                            "slug": "linked-list-cycle-ii",                            "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 143, "title": "Reorder List",                                    "slug": "reorder-list",                                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 202, "title": "Happy Number",                                    "slug": "happy-number",                                    "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 234, "title": "Palindrome Linked List",                          "slug": "palindrome-linked-list",                          "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 457, "title": "Circular Array Loop",                             "slug": "circular-array-loop",                             "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 876, "title": "Middle of the Linked List",                       "slug": "middle-of-the-linked-list",                       "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true }
+      ]
+    },
+    {
+      "id": "merge-intervals",
+      "name": "Merge Intervals",
+      "category": "arrays-sorting",
+      "related_patterns": ["greedy", "two-pointers"],
+      "problems": [
+        { "lc_id": 56,  "title": "Merge Intervals",                                 "slug": "merge-intervals",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 57,  "title": "Insert Interval",                                 "slug": "insert-interval",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 252, "title": "Meeting Rooms",                                   "slug": "meeting-rooms",                                   "difficulty": "Easy",   "premium": true,  "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 253, "title": "Meeting Rooms II",                                "slug": "meeting-rooms-ii",                                "difficulty": "Medium", "premium": true,  "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 435, "title": "Non-overlapping Intervals",                       "slug": "non-overlapping-intervals",                       "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 759, "title": "Employee Free Time",                              "slug": "employee-free-time",                              "difficulty": "Hard",   "premium": true,  "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 986, "title": "Interval List Intersections",                     "slug": "interval-list-intersections",                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "prefix-sum",
+      "name": "Prefix Sum",
+      "category": "arrays-strings",
+      "related_patterns": ["sliding-window", "hash-table"],
+      "problems": [
+        { "lc_id": 238, "title": "Product of Array Except Self",                    "slug": "product-of-array-except-self",                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 303, "title": "Range Sum Query - Immutable",                     "slug": "range-sum-query-immutable",                       "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 525, "title": "Contiguous Array",                                "slug": "contiguous-array",                                "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 560, "title": "Subarray Sum Equals K",                           "slug": "subarray-sum-equals-k",                           "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1658,"title": "Minimum Operations to Reduce X to Zero",          "slug": "minimum-operations-to-reduce-x-to-zero",          "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 2574,"title": "Left and Right Sum Differences",                  "slug": "left-and-right-sum-differences",                  "difficulty": "Easy",   "premium": false, "zerotrak_rating": 1168, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "cyclic-sort",
+      "name": "Cyclic Sort",
+      "category": "arrays-sorting",
+      "related_patterns": ["two-pointers"],
+      "problems": [
+        { "lc_id": 41,  "title": "First Missing Positive",                          "slug": "first-missing-positive",                          "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 268, "title": "Missing Number",                                  "slug": "missing-number",                                  "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 287, "title": "Find the Duplicate Number",                       "slug": "find-the-duplicate-number",                       "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 442, "title": "Find All Duplicates in an Array",                 "slug": "find-all-duplicates-in-an-array",                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 448, "title": "Find All Numbers Disappeared in an Array",        "slug": "find-all-numbers-disappeared-in-an-array",        "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1539,"title": "Kth Missing Positive Number",                     "slug": "kth-missing-positive-number",                     "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "linked-list-reversal",
+      "name": "In-place LinkedList Reversal",
+      "category": "linked-list",
+      "related_patterns": ["fast-slow-pointers"],
+      "problems": [
+        { "lc_id": 25,  "title": "Reverse Nodes in K-Group",                        "slug": "reverse-nodes-in-k-group",                        "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 61,  "title": "Rotate List",                                     "slug": "rotate-list",                                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 92,  "title": "Reverse Linked List II",                          "slug": "reverse-linked-list-ii",                          "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 206, "title": "Reverse Linked List",                             "slug": "reverse-linked-list",                             "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true }
+      ]
+    },
+    {
+      "id": "tree-bfs",
+      "name": "Tree Breadth First Search",
+      "category": "trees-graphs",
+      "related_patterns": ["tree-dfs", "bfs-graph"],
+      "problems": [
+        { "lc_id": 102, "title": "Binary Tree Level Order Traversal",               "slug": "binary-tree-level-order-traversal",               "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 103, "title": "Binary Tree Zigzag Level Order Traversal",        "slug": "binary-tree-zigzag-level-order-traversal",        "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 107, "title": "Binary Tree Level Order Traversal II",            "slug": "binary-tree-level-order-traversal-ii",            "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 111, "title": "Minimum Depth of Binary Tree",                    "slug": "minimum-depth-of-binary-tree",                    "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 116, "title": "Populating Next Right Pointers in Each Node",     "slug": "populating-next-right-pointers-in-each-node",     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 199, "title": "Binary Tree Right Side View",                     "slug": "binary-tree-right-side-view",                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 285, "title": "Inorder Successor in BST",                        "slug": "inorder-successor-in-bst",                        "difficulty": "Medium", "premium": true,  "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "tree-dfs",
+      "name": "Tree Depth First Search",
+      "category": "trees-graphs",
+      "related_patterns": ["tree-bfs", "backtracking"],
+      "problems": [
+        { "lc_id": 112, "title": "Path Sum",                                        "slug": "path-sum",                                        "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 113, "title": "Path Sum II",                                     "slug": "path-sum-ii",                                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 124, "title": "Binary Tree Maximum Path Sum",                    "slug": "binary-tree-maximum-path-sum",                    "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 129, "title": "Sum Root to Leaf Numbers",                        "slug": "sum-root-to-leaf-numbers",                        "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 437, "title": "Path Sum III",                                    "slug": "path-sum-iii",                                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 543, "title": "Diameter of Binary Tree",                         "slug": "diameter-of-binary-tree",                         "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "two-heaps",
+      "name": "Two Heaps",
+      "category": "heap",
+      "related_patterns": ["top-k-elements"],
+      "problems": [
+        { "lc_id": 295, "title": "Find Median from Data Stream",                    "slug": "find-median-from-data-stream",                    "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 436, "title": "Find Right Interval",                             "slug": "find-right-interval",                             "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 480, "title": "Sliding Window Median",                           "slug": "sliding-window-median",                           "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 502, "title": "IPO",                                             "slug": "ipo",                                             "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "subsets",
+      "name": "Subsets",
+      "category": "backtracking",
+      "related_patterns": ["backtracking", "dp-01-knapsack"],
+      "problems": [
+        { "lc_id": 22,  "title": "Generate Parentheses",                            "slug": "generate-parentheses",                            "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 46,  "title": "Permutations",                                    "slug": "permutations",                                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 78,  "title": "Subsets",                                         "slug": "subsets",                                         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 90,  "title": "Subsets II",                                      "slug": "subsets-ii",                                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 95,  "title": "Unique Binary Search Trees II",                   "slug": "unique-binary-search-trees-ii",                   "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 96,  "title": "Unique Binary Search Trees",                      "slug": "unique-binary-search-trees",                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 241, "title": "Different Ways to Add Parentheses",               "slug": "different-ways-to-add-parentheses",               "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 784, "title": "Letter Case Permutation",                         "slug": "letter-case-permutation",                         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "modified-binary-search",
+      "name": "Modified Binary Search",
+      "category": "binary-search",
+      "related_patterns": ["two-pointers", "cyclic-sort"],
+      "problems": [
+        { "lc_id": 33,  "title": "Search in Rotated Sorted Array",                  "slug": "search-in-rotated-sorted-array",                  "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 34,  "title": "Find First and Last Position of Element in Sorted Array", "slug": "find-first-and-last-position-of-element-in-sorted-array", "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 658, "title": "Find K Closest Elements",                         "slug": "find-k-closest-elements",                         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 702, "title": "Search in a Sorted Array of Unknown Size",        "slug": "search-in-a-sorted-array-of-unknown-size",        "difficulty": "Medium", "premium": true,  "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 704, "title": "Binary Search",                                   "slug": "binary-search",                                   "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 744, "title": "Find Smallest Letter Greater Than Target",        "slug": "find-smallest-letter-greater-than-target",        "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 852, "title": "Peak Index in a Mountain Array",                  "slug": "peak-index-in-a-mountain-array",                  "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1095,"title": "Find in Mountain Array",                           "slug": "find-in-mountain-array",                           "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "bitwise-xor",
+      "name": "Bitwise XOR",
+      "category": "bit-manipulation",
+      "related_patterns": [],
+      "problems": [
+        { "lc_id": 136, "title": "Single Number",                                   "slug": "single-number",                                   "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 260, "title": "Single Number III",                               "slug": "single-number-iii",                               "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 832, "title": "Flipping an Image",                               "slug": "flipping-an-image",                               "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1009,"title": "Complement of Base 10 Integer",                   "slug": "complement-of-base-10-integer",                   "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "top-k-elements",
+      "name": "Top K Elements",
+      "category": "heap",
+      "related_patterns": ["k-way-merge", "two-heaps", "modified-binary-search"],
+      "problems": [
+        { "lc_id": 215, "title": "Kth Largest Element in an Array",                 "slug": "kth-largest-element-in-an-array",                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 347, "title": "Top K Frequent Elements",                         "slug": "top-k-frequent-elements",                         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 373, "title": "Find K Pairs with Smallest Sums",                 "slug": "find-k-pairs-with-smallest-sums",                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 451, "title": "Sort Characters By Frequency",                    "slug": "sort-characters-by-frequency",                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 621, "title": "Task Scheduler",                                  "slug": "task-scheduler",                                  "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 658, "title": "Find K Closest Elements",                         "slug": "find-k-closest-elements",                         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 703, "title": "Kth Largest Element in a Stream",                 "slug": "kth-largest-element-in-a-stream",                 "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 767, "title": "Reorganize String",                               "slug": "reorganize-string",                               "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 895, "title": "Maximum Frequency Stack",                         "slug": "maximum-frequency-stack",                         "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 973, "title": "K Closest Points to Origin",                      "slug": "k-closest-points-to-origin",                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1167,"title": "Minimum Cost to Connect Sticks",                  "slug": "minimum-cost-to-connect-sticks",                  "difficulty": "Medium", "premium": true,  "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "k-way-merge",
+      "name": "K-way Merge",
+      "category": "heap",
+      "related_patterns": ["top-k-elements"],
+      "problems": [
+        { "lc_id": 23,  "title": "Merge K Sorted Lists",                            "slug": "merge-k-sorted-lists",                            "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 373, "title": "Find K Pairs with Smallest Sums",                 "slug": "find-k-pairs-with-smallest-sums",                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 378, "title": "Kth Smallest Element in a Sorted Matrix",         "slug": "kth-smallest-element-in-a-sorted-matrix",         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 632, "title": "Smallest Range Covering Elements from K Lists",   "slug": "smallest-range-covering-elements-from-k-lists",   "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "topological-sort",
+      "name": "Topological Sort",
+      "category": "trees-graphs",
+      "related_patterns": ["bfs-graph", "tree-bfs"],
+      "problems": [
+        { "lc_id": 207, "title": "Course Schedule",                                 "slug": "course-schedule",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 210, "title": "Course Schedule II",                              "slug": "course-schedule-ii",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 269, "title": "Alien Dictionary",                                "slug": "alien-dictionary",                                "difficulty": "Hard",   "premium": true,  "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 310, "title": "Minimum Height Trees",                            "slug": "minimum-height-trees",                            "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 444, "title": "Sequence Reconstruction",                         "slug": "sequence-reconstruction",                         "difficulty": "Medium", "premium": true,  "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "monotonic-stack",
+      "name": "Monotonic Stack",
+      "category": "stack",
+      "related_patterns": ["sliding-window", "two-pointers"],
+      "problems": [
+        { "lc_id": 42,  "title": "Trapping Rain Water",                             "slug": "trapping-rain-water",                             "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 84,  "title": "Largest Rectangle in Histogram",                  "slug": "largest-rectangle-in-histogram",                  "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 402, "title": "Remove K Digits",                                 "slug": "remove-k-digits",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 496, "title": "Next Greater Element I",                          "slug": "next-greater-element-i",                          "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 503, "title": "Next Greater Element II",                         "slug": "next-greater-element-ii",                         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 739, "title": "Daily Temperatures",                              "slug": "daily-temperatures",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 901, "title": "Online Stock Span",                               "slug": "online-stock-span",                               "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 907, "title": "Sum of Subarray Minimums",                        "slug": "sum-of-subarray-minimums",                        "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "backtracking",
+      "name": "Backtracking",
+      "category": "backtracking",
+      "related_patterns": ["subsets", "tree-dfs"],
+      "problems": [
+        { "lc_id": 37,  "title": "Sudoku Solver",                                   "slug": "sudoku-solver",                                   "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 39,  "title": "Combination Sum",                                 "slug": "combination-sum",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 40,  "title": "Combination Sum II",                              "slug": "combination-sum-ii",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 51,  "title": "N-Queens",                                        "slug": "n-queens",                                        "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 79,  "title": "Word Search",                                     "slug": "word-search",                                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 131, "title": "Palindrome Partitioning",                         "slug": "palindrome-partitioning",                         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "greedy",
+      "name": "Greedy",
+      "category": "greedy",
+      "related_patterns": ["merge-intervals", "dp-01-knapsack"],
+      "problems": [
+        { "lc_id": 45,  "title": "Jump Game II",                                    "slug": "jump-game-ii",                                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 55,  "title": "Jump Game",                                       "slug": "jump-game",                                       "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 134, "title": "Gas Station",                                     "slug": "gas-station",                                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 135, "title": "Candy",                                           "slug": "candy",                                           "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 435, "title": "Non-overlapping Intervals",                       "slug": "non-overlapping-intervals",                       "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 763, "title": "Partition Labels",                                "slug": "partition-labels",                                "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "union-find",
+      "name": "Union Find / Islands",
+      "category": "trees-graphs",
+      "related_patterns": ["bfs-graph", "topological-sort", "matrix-traversal"],
+      "problems": [
+        { "lc_id": 130, "title": "Surrounded Regions",                              "slug": "surrounded-regions",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 200, "title": "Number of Islands",                               "slug": "number-of-islands",                               "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 261, "title": "Graph Valid Tree",                                "slug": "graph-valid-tree",                                "difficulty": "Medium", "premium": true,  "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 323, "title": "Number of Connected Components in an Undirected Graph", "slug": "number-of-connected-components-in-an-undirected-graph", "difficulty": "Medium", "premium": true, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 417, "title": "Pacific Atlantic Water Flow",                      "slug": "pacific-atlantic-water-flow",                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 684, "title": "Redundant Connection",                            "slug": "redundant-connection",                            "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 695, "title": "Max Area of Island",                              "slug": "max-area-of-island",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "bfs-graph",
+      "name": "BFS on Graphs",
+      "category": "trees-graphs",
+      "related_patterns": ["tree-bfs", "union-find", "topological-sort"],
+      "problems": [
+        { "lc_id": 127, "title": "Word Ladder",                                     "slug": "word-ladder",                                     "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 133, "title": "Clone Graph",                                     "slug": "clone-graph",                                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 200, "title": "Number of Islands",                               "slug": "number-of-islands",                               "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 547, "title": "Number of Provinces",                             "slug": "number-of-provinces",                             "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 752, "title": "Open the Lock",                                   "slug": "open-the-lock",                                   "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 994, "title": "Rotting Oranges",                                 "slug": "rotting-oranges",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "matrix-traversal",
+      "name": "Matrix Traversal",
+      "category": "trees-graphs",
+      "related_patterns": ["bfs-graph", "union-find", "backtracking"],
+      "problems": [
+        { "lc_id": 79,  "title": "Word Search",                                     "slug": "word-search",                                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 200, "title": "Number of Islands",                               "slug": "number-of-islands",                               "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 286, "title": "Walls and Gates",                                 "slug": "walls-and-gates",                                 "difficulty": "Medium", "premium": true,  "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 695, "title": "Max Area of Island",                              "slug": "max-area-of-island",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 994, "title": "Rotting Oranges",                                 "slug": "rotting-oranges",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1091,"title": "Shortest Path in Binary Matrix",                  "slug": "shortest-path-in-binary-matrix",                  "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "trie",
+      "name": "Trie",
+      "category": "trie",
+      "related_patterns": ["backtracking"],
+      "problems": [
+        { "lc_id": 208, "title": "Implement Trie (Prefix Tree)",                    "slug": "implement-trie-prefix-tree",                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 211, "title": "Design Add and Search Words Data Structure",      "slug": "design-add-and-search-words-data-structure",      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 212, "title": "Word Search II",                                  "slug": "word-search-ii",                                  "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 421, "title": "Maximum XOR of Two Numbers in an Array",          "slug": "maximum-xor-of-two-numbers-in-an-array",          "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 648, "title": "Replace Words",                                   "slug": "replace-words",                                   "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "hash-table",
+      "name": "Hash Table",
+      "category": "arrays-strings",
+      "related_patterns": ["prefix-sum", "two-pointers"],
+      "problems": [
+        { "lc_id": 1,   "title": "Two Sum",                                         "slug": "two-sum",                                         "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 49,  "title": "Group Anagrams",                                  "slug": "group-anagrams",                                  "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 128, "title": "Longest Consecutive Sequence",                    "slug": "longest-consecutive-sequence",                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 217, "title": "Contains Duplicate",                              "slug": "contains-duplicate",                              "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 242, "title": "Valid Anagram",                                   "slug": "valid-anagram",                                   "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 347, "title": "Top K Frequent Elements",                         "slug": "top-k-frequent-elements",                         "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 560, "title": "Subarray Sum Equals K",                           "slug": "subarray-sum-equals-k",                           "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "dp-01-knapsack",
+      "name": "0/1 Knapsack (DP)",
+      "category": "dynamic-programming",
+      "related_patterns": ["dp-unbounded-knapsack", "backtracking"],
+      "problems": [
+        { "lc_id": 40,  "title": "Combination Sum II",                              "slug": "combination-sum-ii",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 416, "title": "Partition Equal Subset Sum",                      "slug": "partition-equal-subset-sum",                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 474, "title": "Ones and Zeroes",                                 "slug": "ones-and-zeroes",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 494, "title": "Target Sum",                                      "slug": "target-sum",                                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1049,"title": "Last Stone Weight II",                             "slug": "last-stone-weight-ii",                            "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "dp-unbounded-knapsack",
+      "name": "Unbounded Knapsack (DP)",
+      "category": "dynamic-programming",
+      "related_patterns": ["dp-01-knapsack"],
+      "problems": [
+        { "lc_id": 70,  "title": "Climbing Stairs",                                 "slug": "climbing-stairs",                                 "difficulty": "Easy",   "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 279, "title": "Perfect Squares",                                 "slug": "perfect-squares",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 322, "title": "Coin Change",                                     "slug": "coin-change",                                     "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 377, "title": "Combination Sum IV",                              "slug": "combination-sum-iv",                              "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 518, "title": "Coin Change II",                                  "slug": "coin-change-ii",                                  "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 139, "title": "Word Break",                                      "slug": "word-break",                                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "dp-lcs",
+      "name": "Longest Common Subsequence (DP)",
+      "category": "dynamic-programming",
+      "related_patterns": ["dp-lis", "dp-palindrome"],
+      "problems": [
+        { "lc_id": 72,  "title": "Edit Distance",                                   "slug": "edit-distance",                                   "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 1143,"title": "Longest Common Subsequence",                      "slug": "longest-common-subsequence",                      "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 1035,"title": "Uncrossed Lines",                                 "slug": "uncrossed-lines",                                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 583, "title": "Delete Operation for Two Strings",                "slug": "delete-operation-for-two-strings",                "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "dp-lis",
+      "name": "Longest Increasing Subsequence (DP)",
+      "category": "dynamic-programming",
+      "related_patterns": ["dp-lcs", "binary-search"],
+      "problems": [
+        { "lc_id": 300, "title": "Longest Increasing Subsequence",                  "slug": "longest-increasing-subsequence",                  "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 354, "title": "Russian Doll Envelopes",                          "slug": "russian-doll-envelopes",                          "difficulty": "Hard",   "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 646, "title": "Maximum Length of Pair Chain",                    "slug": "maximum-length-of-pair-chain",                    "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 673, "title": "Number of Longest Increasing Subsequence",        "slug": "number-of-longest-increasing-subsequence",        "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    },
+    {
+      "id": "dp-palindrome",
+      "name": "Palindrome (DP)",
+      "category": "dynamic-programming",
+      "related_patterns": ["dp-lcs", "two-pointers"],
+      "problems": [
+        { "lc_id": 5,   "title": "Longest Palindromic Substring",                  "slug": "longest-palindromic-substring",                  "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": true },
+        { "lc_id": 516, "title": "Longest Palindromic Subsequence",                 "slug": "longest-palindromic-subsequence",                 "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false },
+        { "lc_id": 647, "title": "Palindromic Substrings",                          "slug": "palindromic-substrings",                          "difficulty": "Medium", "premium": false, "zerotrak_rating": null, "core_candidate": false }
+      ]
+    }
+  ]
+}

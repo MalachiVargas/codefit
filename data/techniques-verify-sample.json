@@ -1,0 +1,729 @@
+[
+  {
+    "lc_id": 2420,
+    "title": "Find All Good Indices",
+    "slug": "find-all-good-indices",
+    "difficulty": "Medium",
+    "techniques": [
+      "Prefix Sum",
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "lc_id": 3826,
+    "title": "Minimum Partition Score",
+    "slug": "minimum-partition-score",
+    "difficulty": "Hard",
+    "techniques": [
+      "Divide and Conquer",
+      "Prefix Sum",
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Queue",
+      "Prefix Sum",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "lc_id": 3147,
+    "title": "Taking Maximum Energy From the Mystic Dungeon",
+    "slug": "taking-maximum-energy-from-the-mystic-dungeon",
+    "difficulty": "Medium",
+    "techniques": [
+      "Prefix Sum",
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "lc_id": 1749,
+    "title": "Maximum Absolute Sum of Any Subarray",
+    "slug": "maximum-absolute-sum-of-any-subarray",
+    "difficulty": "Medium",
+    "techniques": [
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 1524,
+    "title": "Number of Sub-arrays With Odd Sum",
+    "slug": "number-of-sub-arrays-with-odd-sum",
+    "difficulty": "Medium",
+    "techniques": [
+      "Prefix Sum",
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "lc_id": 1031,
+    "title": "Maximum Sum of Two Non-Overlapping Subarrays",
+    "slug": "maximum-sum-of-two-non-overlapping-subarrays",
+    "difficulty": "Medium",
+    "techniques": [
+      "Sliding Window",
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sliding Window"
+    ]
+  },
+  {
+    "lc_id": 3176,
+    "title": "Find the Maximum Length of a Good Subsequence I",
+    "slug": "find-the-maximum-length-of-a-good-subsequence-i",
+    "difficulty": "Medium",
+    "techniques": [
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3202,
+    "title": "Find the Maximum Length of Valid Subsequence II",
+    "slug": "find-the-maximum-length-of-valid-subsequence-ii",
+    "difficulty": "Medium",
+    "techniques": [
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3599,
+    "title": "Partition Array to Minimize XOR",
+    "slug": "partition-array-to-minimize-xor",
+    "difficulty": "Medium",
+    "techniques": [
+      "Bit Manipulation",
+      "Prefix Sum",
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "lc_id": 2188,
+    "title": "Minimum Time to Finish the Race",
+    "slug": "minimum-time-to-finish-the-race",
+    "difficulty": "Hard",
+    "techniques": [
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 1335,
+    "title": "Minimum Difficulty of a Job Schedule",
+    "slug": "minimum-difficulty-of-a-job-schedule",
+    "difficulty": "Hard",
+    "techniques": [
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 2771,
+    "title": "Longest Non-decreasing Subarray From Two Arrays",
+    "slug": "longest-non-decreasing-subarray-from-two-arrays",
+    "difficulty": "Medium",
+    "techniques": [
+      "Linear DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 2318,
+    "title": "Number of Distinct Roll Sequences",
+    "slug": "number-of-distinct-roll-sequences",
+    "difficulty": "Hard",
+    "techniques": [
+      "State Machine DP"
+    ],
+    "tags": [
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "lc_id": 1411,
+    "title": "Number of Ways to Paint N \u00d7 3 Grid",
+    "slug": "number-of-ways-to-paint-n-3-grid",
+    "difficulty": "Hard",
+    "techniques": [
+      "State Machine DP"
+    ],
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3573,
+    "title": "Best Time to Buy and Sell Stock V",
+    "slug": "best-time-to-buy-and-sell-stock-v",
+    "difficulty": "Medium",
+    "techniques": [
+      "State Machine DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 935,
+    "title": "Knight Dialer",
+    "slug": "knight-dialer",
+    "difficulty": "Medium",
+    "techniques": [
+      "State Machine DP"
+    ],
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 2786,
+    "title": "Visit Array Positions to Maximize Score",
+    "slug": "visit-array-positions-to-maximize-score",
+    "difficulty": "Medium",
+    "techniques": [
+      "State Machine DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3196,
+    "title": "Maximize Total Cost of Alternating Subarrays",
+    "slug": "maximize-total-cost-of-alternating-subarrays",
+    "difficulty": "Medium",
+    "techniques": [
+      "State Machine DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3082,
+    "title": "Find the Sum of the Power of All Subsequences",
+    "slug": "find-the-sum-of-the-power-of-all-subsequences",
+    "difficulty": "Hard",
+    "techniques": [
+      "0/1 Knapsack"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3685,
+    "title": "Subsequence Sum After Capping Elements",
+    "slug": "subsequence-sum-after-capping-elements",
+    "difficulty": "Medium",
+    "techniques": [
+      "Two Pointers",
+      "0/1 Knapsack"
+    ],
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "lc_id": 1049,
+    "title": "Last Stone Weight II",
+    "slug": "last-stone-weight-ii",
+    "difficulty": "Medium",
+    "techniques": [
+      "0/1 Knapsack"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 956,
+    "title": "Tallest Billboard",
+    "slug": "tallest-billboard",
+    "difficulty": "Hard",
+    "techniques": [
+      "0/1 Knapsack"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 2518,
+    "title": "Number of Great Partitions",
+    "slug": "number-of-great-partitions",
+    "difficulty": "Hard",
+    "techniques": [
+      "0/1 Knapsack"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3592,
+    "title": "Inverse Coin Change",
+    "slug": "inverse-coin-change",
+    "difficulty": "Medium",
+    "techniques": [
+      "Unbounded Knapsack"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 1449,
+    "title": "Form Largest Integer With Digits That Add up to Target",
+    "slug": "form-largest-integer-with-digits-that-add-up-to-target",
+    "difficulty": "Hard",
+    "techniques": [
+      "Unbounded Knapsack"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 1130,
+    "title": "Minimum Cost Tree From Leaf Values",
+    "slug": "minimum-cost-tree-from-leaf-values",
+    "difficulty": "Medium",
+    "techniques": [
+      "Greedy",
+      "Monotonic Stack",
+      "Interval DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "lc_id": 1259,
+    "title": "Handshakes That Don't Cross",
+    "slug": "handshakes-that-dont-cross",
+    "difficulty": "Hard",
+    "techniques": [
+      "Interval DP"
+    ],
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 2312,
+    "title": "Selling Pieces of Wood",
+    "slug": "selling-pieces-of-wood",
+    "difficulty": "Hard",
+    "techniques": [
+      "Interval DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "lc_id": 1690,
+    "title": "Stone Game VII",
+    "slug": "stone-game-vii",
+    "difficulty": "Medium",
+    "techniques": [
+      "Game Theory",
+      "Interval DP"
+    ],
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Game Theory"
+    ]
+  },
+  {
+    "lc_id": 3040,
+    "title": "Maximum Number of Operations With the Same Score II",
+    "slug": "maximum-number-of-operations-with-the-same-score-ii",
+    "difficulty": "Medium",
+    "techniques": [
+      "Interval DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "lc_id": 1000,
+    "title": "Minimum Cost to Merge Stones",
+    "slug": "minimum-cost-to-merge-stones",
+    "difficulty": "Hard",
+    "techniques": [
+      "Prefix Sum",
+      "Interval DP"
+    ],
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "lc_id": 3869,
+    "title": "Count Fancy Numbers in a Range",
+    "slug": "count-fancy-numbers-in-a-range",
+    "difficulty": "Hard",
+    "techniques": [
+      "Digit DP"
+    ],
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3621,
+    "title": "Number of Integers With Popcount-Depth Equal to K I",
+    "slug": "number-of-integers-with-popcount-depth-equal-to-k-i",
+    "difficulty": "Hard",
+    "techniques": [
+      "Bit Manipulation",
+      "Digit DP"
+    ],
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Combinatorics"
+    ]
+  },
+  {
+    "lc_id": 3791,
+    "title": "Number of Balanced Integers in a Range",
+    "slug": "number-of-balanced-integers-in-a-range",
+    "difficulty": "Hard",
+    "techniques": [
+      "Digit DP"
+    ],
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 788,
+    "title": "Rotated Digits",
+    "slug": "rotated-digits",
+    "difficulty": "Medium",
+    "techniques": [
+      "Digit DP"
+    ],
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 2827,
+    "title": "Number of Beautiful Integers in the Range",
+    "slug": "number-of-beautiful-integers-in-the-range",
+    "difficulty": "Hard",
+    "techniques": [
+      "Digit DP"
+    ],
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 1012,
+    "title": "Numbers With Repeated Digits",
+    "slug": "numbers-with-repeated-digits",
+    "difficulty": "Hard",
+    "techniques": [
+      "Digit DP"
+    ],
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "lc_id": 3123,
+    "title": "Find Edges in Shortest Paths",
+    "slug": "find-edges-in-shortest-paths",
+    "difficulty": "Hard",
+    "techniques": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 2045,
+    "title": "Second Minimum Time to Reach Destination",
+    "slug": "second-minimum-time-to-reach-destination",
+    "difficulty": "Hard",
+    "techniques": [
+      "Breadth-First Search",
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "Breadth-First Search",
+      "Graph Theory",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 3970,
+    "title": "Shortest Path With At Most K Consecutive Identical Characters",
+    "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+    "difficulty": "Medium",
+    "techniques": [
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "String",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 3650,
+    "title": "Minimum Cost Path with Edge Reversals",
+    "slug": "minimum-cost-path-with-edge-reversals",
+    "difficulty": "Medium",
+    "techniques": [
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 1976,
+    "title": "Number of Ways to Arrive at Destination",
+    "slug": "number-of-ways-to-arrive-at-destination",
+    "difficulty": "Medium",
+    "techniques": [
+      "Topological Sort",
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "Dynamic Programming",
+      "Graph Theory",
+      "Topological Sort",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 1786,
+    "title": "Number of Restricted Paths From First to Last Node",
+    "slug": "number-of-restricted-paths-from-first-to-last-node",
+    "difficulty": "Medium",
+    "techniques": [
+      "Topological Sort",
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "Dynamic Programming",
+      "Graph Theory",
+      "Topological Sort",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 3620,
+    "title": "Network Recovery Pathways",
+    "slug": "network-recovery-pathways",
+    "difficulty": "Hard",
+    "techniques": [
+      "Topological Sort",
+      "Binary Search",
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Topological Sort",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 3604,
+    "title": "Minimum Time to Reach Destination in Directed Graph",
+    "slug": "minimum-time-to-reach-destination-in-directed-graph",
+    "difficulty": "Medium",
+    "techniques": [
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 3377,
+    "title": "Digit Operations to Make Two Integers Equal",
+    "slug": "digit-operations-to-make-two-integers-equal",
+    "difficulty": "Medium",
+    "techniques": [
+      "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+    ],
+    "tags": [
+      "Math",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Number Theory",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 1334,
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "difficulty": "Medium",
+    "techniques": [
+      "Multi-Source / All-Pairs Shortest Path (Floyd-Warshall)"
+    ],
+    "tags": [
+      "Dynamic Programming",
+      "Graph Theory",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 2959,
+    "title": "Number of Possible Sets of Closing Branches",
+    "slug": "number-of-possible-sets-of-closing-branches",
+    "difficulty": "Hard",
+    "techniques": [
+      "Brute Force / Enumeration",
+      "Bit Manipulation",
+      "Multi-Source / All-Pairs Shortest Path (Floyd-Warshall)"
+    ],
+    "tags": [
+      "Bit Manipulation",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 3928,
+    "title": "Minimum Cost to Buy Apples II",
+    "slug": "minimum-cost-to-buy-apples-ii",
+    "difficulty": "Hard",
+    "techniques": [
+      "Multi-Source / All-Pairs Shortest Path (Floyd-Warshall)"
+    ],
+    "tags": [
+      "Array",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "lc_id": 2977,
+    "title": "Minimum Cost to Convert String II",
+    "slug": "minimum-cost-to-convert-string-ii",
+    "difficulty": "Hard",
+    "techniques": [
+      "Trie",
+      "Sequence DP (LCS / Edit Distance)",
+      "Multi-Source / All-Pairs Shortest Path (Floyd-Warshall)"
+    ],
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Trie",
+      "Shortest Path"
+    ]
+  }
+]
