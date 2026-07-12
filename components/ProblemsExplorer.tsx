@@ -68,7 +68,7 @@ export default function ProblemsExplorer({ problems }: Props) {
   const [maxRating, setMaxRating] = useState('')
   const [selectedTags, setSelectedTags] = useState<Set<string>>(new Set())
   const [selectedTechniques, setSelectedTechniques] = useState<Set<string>>(new Set())
-  const [contestOnly, setContestOnly] = useState(false)
+  const [showUnrated, setShowUnrated] = useState(false)
   const [sortDesc, setSortDesc] = useState(false)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
 
@@ -117,10 +117,10 @@ export default function ProblemsExplorer({ problems }: Props) {
     return facetScoped.filter((p) => {
       if (q && !p.title.toLowerCase().includes(q) && !String(p.lc_id).includes(q)) return false
       if (p.rating < min || p.rating > max) return false
-      if (contestOnly && p.ratingSource !== 'zerotrak') return false
+      if (!showUnrated && p.ratingSource !== 'zerotrak') return false
       return true
     })
-  }, [facetScoped, search, minRating, maxRating, contestOnly])
+  }, [facetScoped, search, minRating, maxRating, showUnrated])
 
   const sorted = useMemo(() => {
     const arr = [...filtered]
@@ -140,7 +140,7 @@ export default function ProblemsExplorer({ problems }: Props) {
     maxRating !== '' ||
     selectedTags.size > 0 ||
     selectedTechniques.size > 0 ||
-    contestOnly
+    showUnrated
 
   const toggleTag = (slug: string) => {
     setSelectedTags((prev) => {
@@ -168,7 +168,7 @@ export default function ProblemsExplorer({ problems }: Props) {
     setMaxRating('')
     setSelectedTags(new Set())
     setSelectedTechniques(new Set())
-    setContestOnly(false)
+    setShowUnrated(false)
     resetPage()
   }
 
@@ -278,37 +278,6 @@ export default function ProblemsExplorer({ problems }: Props) {
           </div>
 
           <div>
-            <SectionLabel>Tags</SectionLabel>
-            <div
-              className="max-h-72 overflow-y-auto rounded"
-              style={{ border: `1px solid ${C.border}`, background: C.surface }}
-            >
-              {tagList.map((t) => {
-                const active = selectedTags.has(t.slug)
-                return (
-                  <button
-                    key={t.slug}
-                    type="button"
-                    onClick={() => toggleTag(t.slug)}
-                    className="w-full flex items-center justify-between gap-2 px-2.5 py-1 text-[13px] text-left"
-                    style={{
-                      background: active ? C.accentPale : 'transparent',
-                      color: active ? C.accent : C.text,
-                      fontWeight: active ? 600 : 400,
-                      boxShadow: active ? `inset 2px 0 0 ${C.accent}` : 'none',
-                    }}
-                  >
-                    <span className="truncate">{t.name}</span>
-                    <span className="tnum" style={{ color: active ? C.accent : C.muted }}>
-                      {t.count}
-                    </span>
-                  </button>
-                )
-              })}
-            </div>
-          </div>
-
-          <div>
             <SectionLabel>Technique</SectionLabel>
             <div
               className="max-h-72 overflow-y-auto rounded"
@@ -339,17 +308,48 @@ export default function ProblemsExplorer({ problems }: Props) {
             </div>
           </div>
 
+          <div>
+            <SectionLabel>Tags</SectionLabel>
+            <div
+              className="max-h-72 overflow-y-auto rounded"
+              style={{ border: `1px solid ${C.border}`, background: C.surface }}
+            >
+              {tagList.map((t) => {
+                const active = selectedTags.has(t.slug)
+                return (
+                  <button
+                    key={t.slug}
+                    type="button"
+                    onClick={() => toggleTag(t.slug)}
+                    className="w-full flex items-center justify-between gap-2 px-2.5 py-1 text-[13px] text-left"
+                    style={{
+                      background: active ? C.accentPale : 'transparent',
+                      color: active ? C.accent : C.text,
+                      fontWeight: active ? 600 : 400,
+                      boxShadow: active ? `inset 2px 0 0 ${C.accent}` : 'none',
+                    }}
+                  >
+                    <span className="truncate">{t.name}</span>
+                    <span className="tnum" style={{ color: active ? C.accent : C.muted }}>
+                      {t.count}
+                    </span>
+                  </button>
+                )
+              })}
+            </div>
+          </div>
+
           <label className="flex items-center gap-2 text-sm cursor-pointer select-none">
             <input
               type="checkbox"
-              checked={contestOnly}
+              checked={showUnrated}
               onChange={(e) => {
-                setContestOnly(e.target.checked)
+                setShowUnrated(e.target.checked)
                 resetPage()
               }}
               className="accent-[#B5651D]"
             />
-            Contest-rated only
+            Include non-contest-rated
           </label>
 
           {hasFilters && (
@@ -414,7 +414,7 @@ export default function ProblemsExplorer({ problems }: Props) {
                   <th className="text-left font-semibold px-4 py-2.5">Rating</th>
                   <th className="text-left font-semibold px-3 py-2.5">#</th>
                   <th className="text-left font-semibold px-3 py-2.5">Title</th>
-                  <th className="text-left font-semibold px-3 py-2.5">Tags</th>
+                  <th className="text-left font-semibold px-3 py-2.5">Technique · Tags</th>
                   <th className="text-right font-semibold px-4 py-2.5">Level</th>
                 </tr>
               </thead>
@@ -453,8 +453,13 @@ export default function ProblemsExplorer({ problems }: Props) {
                         {p.premium && <LockIcon />}
                       </a>
                     </td>
-                    <td className="px-3 py-2 max-w-[280px]" style={{ color: C.muted }}>
-                      {p.tags.map((t) => t.name).join(' · ')}
+                    <td className="px-3 py-2 max-w-[280px]">
+                      {p.techniques.length > 0 && (
+                        <div className="text-[13px] font-semibold" style={{ color: C.accent }}>
+                          {p.techniques.join(' · ')}
+                        </div>
+                      )}
+                      <div style={{ color: C.muted }}>{p.tags.map((t) => t.name).join(' · ')}</div>
                     </td>
                     <td
                       className="px-4 py-2 text-right text-[11px] uppercase tracking-[0.15em] whitespace-nowrap"
