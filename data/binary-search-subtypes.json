@@ -1,0 +1,1237 @@
+[
+  {
+    "lc_id": 754,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 774,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 778,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 786,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 792,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 793,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 825,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 826,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 852,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 862,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 875,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 878,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 887,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 888,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 902,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 911,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 981,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1004,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1011,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1027,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1044,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1064,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1095,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1099,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1102,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1146,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1150,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1157,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1170,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1182,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1187,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1198,
+    "subtype": "Binary Search on Matrix",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1201,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1208,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1213,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1214,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1231,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1235,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1237,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1268,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1283,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1292,
+    "subtype": "Binary Search on Matrix",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1300,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1337,
+    "subtype": "Binary Search on Matrix",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1346,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1348,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1351,
+    "subtype": "Binary Search on Matrix",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1385,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1439,
+    "subtype": "Binary Search on Matrix",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1477,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1482,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1483,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1488,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1498,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1508,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1521,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1539,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1552,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1562,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1574,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1608,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1631,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1648,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1649,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1658,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1671,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1712,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1713,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1739,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1751,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1760,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1782,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1793,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1802,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1818,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1838,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1847,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1851,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1855,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1862,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1870,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1889,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1894,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1898,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1923,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1954,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1964,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1970,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2008,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2009,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2024,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2035,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2040,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2054,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2055,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2064,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2070,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2071,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2080,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2089,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2106,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2111,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2141,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2179,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2187,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2223,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2226,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2234,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2250,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2251,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2258,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2271,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2286,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2300,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2302,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2332,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2333,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2354,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2358,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2389,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2398,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2411,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2424,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2426,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2439,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2448,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2454,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2476,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2498,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2501,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2513,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2517,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2528,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2529,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2540,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2554,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2555,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2560,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2563,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2565,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2576,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2589,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2594,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2601,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2602,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2616,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2659,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2713,
+    "subtype": "Binary Search on Matrix",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2736,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2779,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2790,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2812,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2817,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2824,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2826,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2830,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2831,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2856,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2861,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2926,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2940,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2945,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2967,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2968,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2970,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2972,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2981,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2982,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3006,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3007,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3008,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3048,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3049,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3113,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3116,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3117,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3134,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3143,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3145,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3152,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3161,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3171,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3186,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3209,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3261,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3281,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3288,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3291,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3292,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3296,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3312,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3346,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3347,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3350,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3356,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3357,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3398,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3399,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3413,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3414,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3419,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3449,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3453,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3454,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3455,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3464,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3477,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3479,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3488,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3501,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3508,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3532,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3534,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3585,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3600,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3605,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3608,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3613,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3620,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3633,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3634,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3635,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3636,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3639,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3661,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3709,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3710,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3722,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3733,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3748,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3759,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3762,
+    "subtype": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3766,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3771,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3801,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3814,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3824,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3825,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3896,
+    "subtype": "Binary Search + Two Pointers / Sliding Window",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3911,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3920,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3924,
+    "subtype": "Binary Search + Graph Feasibility (Parametric Search)",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3932,
+    "subtype": "Classic Search in Sorted Array",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3934,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3956,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3957,
+    "subtype": "Binary Search Optimized DP",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3971,
+    "subtype": "Binary Search on Answer (Search Space)",
+    "confidence": "high"
+  }
+]

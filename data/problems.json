@@ -18591,7 +18591,8 @@
       "rating": 1880.3261182293,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -19163,7 +19164,8 @@
       "rating": 2084.2010769193,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -19280,7 +19282,8 @@
         "Union-Find",
         "Depth-First Search",
         "Breadth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -19513,7 +19516,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -19681,7 +19685,8 @@
       "techniques": [
         "Binary Search",
         "Trie",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -19703,7 +19708,8 @@
       "rating": 2100.3248877105,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -20519,7 +20525,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -20556,7 +20563,8 @@
         "Greedy",
         "Two Pointers",
         "Binary Search",
-        "Matching/Allocation Greedy"
+        "Matching/Allocation Greedy",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -21270,7 +21278,8 @@
       "rating": 1181.5839867359,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -21545,7 +21554,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -21904,7 +21914,8 @@
       "rating": 1765.5654059263,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -21979,7 +21990,8 @@
       "rating": 1896.7975214446,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -22213,7 +22225,8 @@
       "rating": 2376.8658923518,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -22243,7 +22256,8 @@
       "rating": 1334.0564009231,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -22638,7 +22652,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -22881,7 +22896,8 @@
       "rating": 2000.8021428612,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -24861,7 +24877,8 @@
       "rating": 1574.7542247682,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -25486,7 +25503,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -25662,7 +25680,8 @@
       "rating": 1725.4481937307,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -26081,7 +26100,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -26551,7 +26571,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -27034,7 +27055,8 @@
       "rating": 1307.9800903088,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -27759,7 +27781,8 @@
       "rating": 1827.090740222,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -27861,7 +27884,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -27958,7 +27982,8 @@
         "Union-Find",
         "Depth-First Search",
         "Breadth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -28947,7 +28972,8 @@
       "rating": 1770.8924569497,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -29042,7 +29068,8 @@
       "rating": 1249.9947800752,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -29213,7 +29240,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -29543,7 +29571,8 @@
       "rating": 1431.6864980883,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -29823,7 +29852,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -29939,7 +29969,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -30174,7 +30205,8 @@
       "rating": 1401.2246983038,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Matrix"
       ]
     },
     {
@@ -30255,7 +30287,8 @@
       "rating": 2039.110874689,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -30436,7 +30469,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -30544,7 +30578,8 @@
       "rating": 1259.1979660519,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -30588,7 +30623,8 @@
       "techniques": [
         "Depth-First Search",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -30985,7 +31021,8 @@
       "rating": 2029.1301557536,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -31093,7 +31130,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -31152,7 +31190,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -32028,7 +32067,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Trie"
+        "Trie",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -32344,7 +32384,8 @@
       "rating": 1541.7840320661,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -32557,7 +32598,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "2D / Matrix Prefix Sum"
+        "2D / Matrix Prefix Sum",
+        "Binary Search on Matrix"
       ]
     },
     {
@@ -32744,7 +32786,8 @@
       "rating": 1606.9895296459,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -33622,7 +33665,8 @@
       "rating": 1224.7606792444,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Matrix"
       ]
     },
     {
@@ -33846,7 +33890,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -33908,7 +33953,8 @@
       "rating": 2036.7206020719,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -33986,7 +34032,8 @@
       "rating": 1139.4248492279,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Matrix"
       ]
     },
     {
@@ -34884,7 +34931,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -36215,7 +36263,8 @@
       "rating": 2133.9592509012,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Matrix"
       ]
     },
     {
@@ -37166,7 +37215,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -37292,7 +37342,8 @@
       "rating": 1945.5095833982,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -37338,7 +37389,8 @@
         "Breadth-First Search",
         "Bit Manipulation",
         "Binary Search",
-        "Tree DP"
+        "Tree DP",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -37468,7 +37520,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Greedy + Regret/Undo"
+        "Greedy + Regret/Undo",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -37719,7 +37772,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -37992,7 +38046,8 @@
         "Two Pointers",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -38322,7 +38377,8 @@
       "techniques": [
         "Bit Manipulation",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -38758,7 +38814,8 @@
       "rating": 1295.4970938463,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -39054,7 +39111,8 @@
       "rating": 1919.7433862082,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -39300,7 +39358,8 @@
       "rating": 1928.2304187946,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -39632,7 +39691,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -40489,7 +40549,8 @@
       "rating": 1369.614440152,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -41108,7 +41169,8 @@
         "Union-Find",
         "Depth-First Search",
         "Breadth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -41534,7 +41596,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -41578,7 +41641,8 @@
       "techniques": [
         "Divide and Conquer",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -41834,7 +41898,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Hash Table"
+        "Prefix Sum + Hash Table",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -42156,7 +42221,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -43207,7 +43273,8 @@
         "Two Pointers",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -43238,7 +43305,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -43927,7 +43995,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -44205,7 +44274,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -44426,7 +44496,8 @@
       "rating": 1939.9323330472,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -44995,7 +45066,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -45266,7 +45338,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -45492,7 +45565,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -45896,7 +45970,8 @@
       "rating": 1934.3556201811,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -46405,7 +46480,8 @@
         "Binary Search",
         "Prefix Sum",
         "Sort + Scan",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -46596,7 +46672,8 @@
       "rating": 2081.7518764643,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -46700,7 +46777,8 @@
       "rating": 2286.1378742318,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -46794,7 +46872,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -47005,7 +47084,8 @@
         "Brute Force / Enumeration",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -47192,7 +47272,8 @@
       "rating": 1675.761234741,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -47678,7 +47759,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -47789,7 +47871,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -47901,7 +47984,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -48535,7 +48619,8 @@
       "rating": 2661.0670044656,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -49305,7 +49390,8 @@
       "rating": 1758.5135073787,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -49579,7 +49665,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -49738,7 +49825,8 @@
         "Union-Find",
         "Depth-First Search",
         "Breadth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -50789,7 +50877,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -50820,7 +50909,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -51216,7 +51306,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -51561,7 +51652,8 @@
         "Bit Manipulation",
         "Two Pointers",
         "Binary Search",
-        "Bitmask DP"
+        "Bitmask DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -51692,7 +51784,8 @@
       "rating": 2517.6829964848,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -52045,7 +52138,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -52077,7 +52171,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -52284,7 +52379,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -52424,7 +52520,8 @@
       "rating": 1724.1545485476,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -52469,7 +52566,8 @@
         "Greedy",
         "Two Pointers",
         "Binary Search",
-        "Matching/Allocation Greedy"
+        "Matching/Allocation Greedy",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -52661,7 +52759,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -52877,7 +52976,8 @@
       "rating": 1152.1494742874,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -53350,7 +53450,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -53488,7 +53589,8 @@
       "rating": 1940.6002290953,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -54229,7 +54331,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -55199,7 +55302,8 @@
       "techniques": [
         "Divide and Conquer",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -55404,7 +55508,8 @@
       "rating": 1640.9591585343,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -56303,7 +56408,8 @@
       "rating": 2220.0903365738,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -56376,7 +56482,8 @@
       "rating": 1646.1765343383,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -56582,7 +56689,8 @@
         "Two Pointers",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -56991,7 +57099,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -57031,7 +57140,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Hash Table"
+        "Prefix Sum + Hash Table",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -57185,7 +57295,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Breadth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -57554,7 +57665,8 @@
         "Binary Search",
         "Prefix Sum",
         "Interval Merging/Covering",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -57966,7 +58078,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -58325,7 +58438,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -58386,7 +58500,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -59153,7 +59268,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -59189,7 +59305,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -59759,7 +59876,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -59873,7 +59991,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -60677,7 +60796,8 @@
         "Binary Search",
         "Prefix Sum",
         "Sort + Scan",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -60925,7 +61045,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -61309,7 +61430,8 @@
       "techniques": [
         "Bit Manipulation",
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -61669,7 +61791,8 @@
       "techniques": [
         "Union-Find",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -61739,7 +61862,8 @@
       "techniques": [
         "Divide and Conquer",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -62084,7 +62208,8 @@
         "Binary Search",
         "Prefix Sum",
         "Prefix/Running-Quantity Greedy",
-        "Prefix Sum as DP Optimization"
+        "Prefix Sum as DP Optimization",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -62343,7 +62468,8 @@
         "Binary Search",
         "Prefix Sum",
         "Sort + Scan",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -62503,7 +62629,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -63081,7 +63208,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Depth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -63643,7 +63771,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -63741,7 +63870,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -64067,7 +64197,8 @@
       "rating": 2302.4005640818,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -64177,7 +64308,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -64480,7 +64612,8 @@
         "Binary Search",
         "Prefix Sum",
         "Prefix/Running-Quantity Greedy",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -64506,7 +64639,8 @@
       "rating": 1195.9731842298,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -64788,7 +64922,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -65155,7 +65290,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -65182,7 +65318,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -65329,7 +65466,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Local Max/Min at Each Step"
+        "Local Max/Min at Each Step",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -65417,7 +65555,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -65474,7 +65613,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -65790,7 +65930,8 @@
         "Greedy",
         "Two Pointers",
         "Binary Search",
-        "Two-Pointer Greedy"
+        "Two-Pointer Greedy",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -66152,7 +66293,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Interval Merging/Covering"
+        "Interval Merging/Covering",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -66292,7 +66434,8 @@
       "rating": 1915.2628132733,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -66501,7 +66644,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Local Max/Min at Each Step"
+        "Local Max/Min at Each Step",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -66533,7 +66677,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -66933,7 +67078,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -67730,7 +67876,8 @@
         "Greedy",
         "Binary Search",
         "Segment Tree / Fenwick Tree",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -68858,7 +69005,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Grid DP"
+        "Grid DP",
+        "Binary Search on Matrix"
       ]
     },
     {
@@ -69304,7 +69452,8 @@
       "techniques": [
         "Binary Search",
         "Monotonic Stack",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -70242,7 +70391,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -70499,7 +70649,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -70934,7 +71085,8 @@
       "techniques": [
         "Union-Find",
         "Breadth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -71067,7 +71219,8 @@
       "rating": 1889.4554322242,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -71214,7 +71367,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -71263,7 +71417,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -71363,7 +71518,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -71394,7 +71550,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -72043,7 +72200,8 @@
         "Greedy",
         "Two Pointers",
         "Binary Search",
-        "Difference/Frequency Greedy"
+        "Difference/Frequency Greedy",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -72170,7 +72328,8 @@
       "rating": 1981.3072959787,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -73574,7 +73733,8 @@
       "techniques": [
         "Binary Search",
         "Segment Tree / Fenwick Tree",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -73966,7 +74126,8 @@
       "techniques": [
         "Binary Search",
         "Monotonic Stack",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -74118,7 +74279,8 @@
         "Monotonic Stack",
         "Prefix Sum",
         "Linear DP",
-        "Prefix Sum as DP Optimization"
+        "Prefix Sum as DP Optimization",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -74725,7 +74887,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -74762,7 +74925,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -74826,7 +74990,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -74886,7 +75051,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -75142,7 +75308,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -75177,7 +75344,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -75710,7 +75878,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -75742,7 +75911,8 @@
       "techniques": [
         "Bit Manipulation",
         "Binary Search",
-        "Digit DP"
+        "Digit DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -75781,7 +75951,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -76903,7 +77074,8 @@
       "rating": 2262.5641910108,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -76934,7 +77106,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -78440,7 +78613,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -78525,7 +78699,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -78565,7 +78740,8 @@
       "techniques": [
         "Bit Manipulation",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -78963,7 +79139,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -79180,7 +79357,8 @@
       "rating": 1696.9464414997,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -79238,7 +79416,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -79403,7 +79582,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -79638,7 +79818,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -79877,7 +80058,8 @@
       "techniques": [
         "Bit Manipulation",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -80254,7 +80436,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Counting DP"
+        "Counting DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -80804,7 +80987,8 @@
       "techniques": [
         "Bit Manipulation",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -82129,7 +82313,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -82620,7 +82805,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -82814,7 +83000,8 @@
       "rating": 2449.5767504741,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -82919,7 +83106,8 @@
         "Trie",
         "Segment Tree / Fenwick Tree",
         "Sequence DP (LCS / Edit Distance)",
-        "Interval Merging/Covering"
+        "Interval Merging/Covering",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -82973,7 +83161,8 @@
         "Binary Search",
         "Segment Tree / Fenwick Tree",
         "Sequence DP (LCS / Edit Distance)",
-        "Interval Merging/Covering"
+        "Interval Merging/Covering",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -83072,7 +83261,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -83503,7 +83693,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Hash Table"
+        "Prefix Sum + Hash Table",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -84390,7 +84581,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -84427,7 +84619,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -84500,7 +84693,8 @@
       "rating": 1600.0334724549,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -84655,7 +84849,8 @@
         "Two Pointers",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -84682,7 +84877,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -85781,7 +85977,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -85803,7 +86000,8 @@
       "rating": 2375.9062896615,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -86185,7 +86383,8 @@
         "Binary Search",
         "Prefix Sum",
         "Sort + Scan",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -86216,7 +86415,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Linear DP"
+        "Linear DP",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -86347,7 +86547,8 @@
         "Depth-First Search",
         "Breadth-First Search",
         "Binary Search",
-        "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+        "Single-Source Shortest Path (Dijkstra / Bellman-Ford)",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -87158,7 +87359,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -87232,7 +87434,8 @@
       "rating": 1735.4106121238,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -87263,7 +87466,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -87294,7 +87498,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -87552,7 +87757,8 @@
       "rating": 2805.990278358,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -87857,7 +88063,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -87912,7 +88119,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -88178,7 +88386,8 @@
       "rating": 1699.1071481616,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -88492,7 +88701,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -88712,7 +88922,8 @@
       "rating": 1851.1720518145,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -89392,7 +89603,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Union-Find",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -89472,7 +89684,8 @@
         "Greedy",
         "Bit Manipulation",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -90879,7 +91092,8 @@
         "Depth-First Search",
         "Bit Manipulation",
         "Binary Search",
-        "Tree DP"
+        "Tree DP",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -91309,7 +91523,8 @@
         "Union-Find",
         "Minimum Spanning Tree",
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -91437,7 +91652,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -91544,7 +91760,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Union-Find",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -91655,7 +91872,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Union-Find",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -91846,7 +92064,8 @@
       "techniques": [
         "Topological Sort",
         "Binary Search",
-        "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+        "Single-Source Shortest Path (Dijkstra / Bellman-Ford)",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -92216,7 +92435,8 @@
         "Greedy",
         "Two Pointers",
         "Binary Search",
-        "Local Max/Min at Each Step"
+        "Local Max/Min at Each Step",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -92247,7 +92467,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -92284,7 +92505,8 @@
         "Greedy",
         "Two Pointers",
         "Binary Search",
-        "Local Max/Min at Each Step"
+        "Local Max/Min at Each Step",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -92325,7 +92547,8 @@
         "Divide and Conquer",
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Hash Table"
+        "Prefix Sum + Hash Table",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -92399,7 +92622,8 @@
       "rating": 1853.2804713723,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -92939,7 +93163,8 @@
       "rating": 2525.0244230374,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -94119,7 +94344,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -94160,7 +94386,8 @@
         "Union-Find",
         "Depth-First Search",
         "Breadth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -94495,7 +94722,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -94783,7 +95011,8 @@
       "rating": 1972.7630060106,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -95176,7 +95405,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -95487,7 +95717,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Divide and Conquer",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -95566,7 +95797,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
       ]
     },
     {
@@ -95663,7 +95895,8 @@
       "techniques": [
         "Bit Manipulation",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -95792,7 +96025,8 @@
       "techniques": [
         "Binary Search",
         "Prefix Sum",
-        "Prefix Sum + Binary Search"
+        "Prefix Sum + Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -96506,7 +96740,8 @@
       "techniques": [
         "Bit Manipulation",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -96820,7 +97055,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -97055,7 +97291,8 @@
       "rating": 1531.0213602106,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -97087,7 +97324,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Bit Manipulation",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -98881,7 +99119,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Two Pointers / Sliding Window"
       ]
     },
     {
@@ -99235,7 +99474,8 @@
       "rating": 2155.5770176064,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -99437,7 +99677,8 @@
       "rating": 2263.6224926573,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -99528,7 +99769,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Breadth-First Search",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search + Graph Feasibility (Parametric Search)"
       ]
     },
     {
@@ -99738,7 +99980,8 @@
       "rating": 1548.8661885602,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Classic Search in Sorted Array"
       ]
     },
     {
@@ -99803,7 +100046,8 @@
       "rating": 2162.530467026,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
@@ -100400,7 +100644,8 @@
         "Binary Search",
         "Prefix Sum",
         "Linear DP",
-        "Prefix Sum as DP Optimization"
+        "Prefix Sum as DP Optimization",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -100446,7 +100691,8 @@
         "Binary Search",
         "Prefix Sum",
         "Linear DP",
-        "Prefix Sum as DP Optimization"
+        "Prefix Sum as DP Optimization",
+        "Binary Search Optimized DP"
       ]
     },
     {
@@ -100683,7 +100929,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Binary Search on Answer (Search Space)"
       ]
     },
     {
