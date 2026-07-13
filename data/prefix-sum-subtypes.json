@@ -1,0 +1,1087 @@
+[
+  {
+    "lc_id": 798,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 813,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 848,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 862,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 903,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 930,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 974,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 995,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1000,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1004,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1074,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1094,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1109,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1124,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1140,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1177,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1208,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1248,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1292,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1310,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1314,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1352,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1371,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1413,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1420,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1422,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1423,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1442,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1444,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1480,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1508,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1524,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1525,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1546,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1588,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1589,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1590,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1621,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1658,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1664,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1674,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1685,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1687,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1703,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1712,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1732,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1737,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1738,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1744,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1769,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1829,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1838,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1854,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1856,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1862,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1871,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1872,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1878,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1889,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1893,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1894,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1895,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1906,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1915,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1930,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1943,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1959,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1977,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1991,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2017,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2024,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2025,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2055,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2100,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2106,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2121,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2132,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2145,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2171,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2207,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2209,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2218,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2222,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2234,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2245,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2251,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2256,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2270,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2271,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2281,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2302,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2381,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2382,
+    "subtype": "1D Range Sum Query",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2389,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2391,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2398,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2406,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2420,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2428,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2438,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2439,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2448,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2478,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2483,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2485,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2488,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2528,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2536,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2552,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2559,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2574,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2587,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2588,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2602,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2615,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2640,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2680,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2681,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2731,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2772,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2845,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2848,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2875,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2906,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2945,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2947,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2949,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2968,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2971,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2983,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3015,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3017,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3026,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3028,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3070,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3077,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3086,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3096,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3129,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3130,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3147,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3152,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3179,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3191,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3212,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3224,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3225,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3250,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3251,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3261,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3312,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3333,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3346,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3347,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3354,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3355,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3356,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3361,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3362,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3364,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3381,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3410,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3413,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3425,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3427,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3432,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3434,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3445,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3473,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3480,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3486,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3494,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3500,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3538,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3546,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3548,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3578,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3599,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3628,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3636,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3652,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3653,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3654,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3655,
+    "subtype": "Difference Array / Range Update",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3694,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3698,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3699,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3707,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3709,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3714,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3719,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3721,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3728,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3729,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3737,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3739,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3748,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3755,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3756,
+    "subtype": "1D Range Sum Query",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3771,
+    "subtype": "Prefix Sum + Binary Search",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3788,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3797,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3826,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3845,
+    "subtype": "Prefix XOR",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3862,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3864,
+    "subtype": "1D Range Sum Query",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3883,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3891,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3900,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3903,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3904,
+    "subtype": "1D Range Sum Query",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3919,
+    "subtype": "1D Range Sum Query",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3933,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3938,
+    "subtype": "2D / Matrix Prefix Sum",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3956,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3957,
+    "subtype": "Prefix Sum as DP Optimization",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3969,
+    "subtype": "Prefix Sum + Hash Table",
+    "confidence": "high"
+  }
+]

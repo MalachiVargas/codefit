@@ -1,0 +1,1927 @@
+[
+  {
+    "lc_id": 757,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 763,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 765,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 767,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 768,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 769,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 781,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 807,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 826,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 846,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 857,
+    "subtype": "Greedy + Regret/Undo",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 860,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 861,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 870,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 871,
+    "subtype": "Greedy + Regret/Undo",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 881,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 910,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 921,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 936,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 942,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 945,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 948,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 954,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 955,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 969,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 976,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 984,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 991,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1005,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1007,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1013,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1024,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1029,
+    "subtype": "Exchange Argument",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1053,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1054,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1081,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1090,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1130,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1144,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1147,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1167,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1183,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1196,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1199,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1217,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1221,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1247,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1253,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1262,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1282,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1296,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1323,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1326,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1328,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1330,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1338,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1353,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1363,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1382,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1383,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1386,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1388,
+    "subtype": "Greedy + Regret/Undo",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1400,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1402,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1403,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1405,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1414,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1432,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1433,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1465,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1481,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1488,
+    "subtype": "Greedy + Regret/Undo",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1505,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1509,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1520,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1526,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1529,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1536,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1537,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1541,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1546,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1558,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1561,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1567,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1578,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1585,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1589,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1605,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1642,
+    "subtype": "Greedy + Regret/Undo",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1647,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1648,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1663,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1665,
+    "subtype": "Exchange Argument",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1671,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1673,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1675,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1686,
+    "subtype": "Exchange Argument",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1689,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1702,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1703,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1705,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1710,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1713,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1717,
+    "subtype": "Exchange Argument",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1727,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1733,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1736,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1739,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1753,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1754,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1764,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1775,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1785,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1792,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1798,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1802,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1824,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1827,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1833,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1838,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1846,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1850,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1864,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1877,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1881,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1899,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1903,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1921,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1927,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1936,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1946,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1953,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1962,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1963,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1968,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 1969,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1974,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 1975,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 1996,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2007,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2027,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2029,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2030,
+    "subtype": "Greedy + Regret/Undo",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2037,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2038,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2064,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2071,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2078,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2086,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2087,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2091,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2116,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2126,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2131,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2132,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2136,
+    "subtype": "Exchange Argument",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2139,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2141,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2144,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2160,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2170,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2171,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2178,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2182,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2193,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2195,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2202,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2207,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2208,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2216,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2224,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2233,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2234,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2241,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2244,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2259,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2271,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2279,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2285,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2294,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2310,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2311,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2333,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2335,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2350,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2357,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2358,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2366,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2375,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2383,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2384,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2389,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2405,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2406,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2410,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2412,
+    "subtype": "Exchange Argument",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2429,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2434,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2439,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2448,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2449,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2457,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2472,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2486,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2497,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2498,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2499,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2517,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2522,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2528,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2530,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2541,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2542,
+    "subtype": "Greedy + Regret/Undo",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2551,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2554,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2560,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2561,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2566,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2567,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2571,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2573,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2576,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2578,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2587,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2589,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2591,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2592,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2598,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2600,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2601,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2607,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2611,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2616,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2645,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2656,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2659,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2663,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2673,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2680,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2697,
+    "subtype": "Two-Pointer Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2706,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2708,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2712,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2734,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2745,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2789,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2790,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2800,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2811,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2813,
+    "subtype": "Greedy + Regret/Undo",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2818,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2829,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2834,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2835,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2842,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2844,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2856,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2864,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2870,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2871,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2895,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2897,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2900,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2910,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2918,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2931,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2938,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2939,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2952,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2957,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 2966,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 2967,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 2971,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3002,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3012,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3014,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3016,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3022,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3035,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3049,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3068,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3074,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3075,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3081,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3085,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3086,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3091,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3106,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3107,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3111,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3139,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3170,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3192,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3207,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3216,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3218,
+    "subtype": "Exchange Argument",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3219,
+    "subtype": "Exchange Argument",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3228,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3229,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3244,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3260,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3273,
+    "subtype": "Exchange Argument",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3281,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3282,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3291,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3292,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3296,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3301,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3302,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3326,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3348,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3357,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3362,
+    "subtype": "Heap/Priority-Queue Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3397,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3402,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3413,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3424,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3434,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3439,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3440,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3449,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3457,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3458,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3462,
+    "subtype": "Sort + Scan",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3474,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3487,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3523,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3534,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3542,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3545,
+    "subtype": "Difference/Frequency Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3547,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3557,
+    "subtype": "Interval Merging/Covering",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3572,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3576,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3587,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3588,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3600,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3605,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3627,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3628,
+    "subtype": "Prefix/Running-Quantity Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3630,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3633,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3635,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3638,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "medium"
+  },
+  {
+    "lc_id": 3645,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3675,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3680,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3681,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3684,
+    "subtype": "Sort + Scan",
+    "confidence": "high"
+  },
+  {
+    "lc_id": 3689,
+    "subtype": "Local Max/Min at Each Step",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3691,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3695,
+    "subtype": "Matching/Allocation Greedy",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3720,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3723,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3724,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3727,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3732,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3745,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3752,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3767,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3776,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3780,
+    "subtype": "Sort + Scan",
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3781,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3785,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3789,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3796,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3800,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3806,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3810,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3816,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3849,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3854,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3858,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3868,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3891,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3897,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3914,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3919,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3927,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3946,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3947,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3948,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3952,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3971,
+    "subtype": null,
+    "confidence": "low"
+  },
+  {
+    "lc_id": 3974,
+    "subtype": null,
+    "confidence": "low"
+  }
+]

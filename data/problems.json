@@ -18668,7 +18668,8 @@
       "rating": 2378.6234112504,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -18829,7 +18830,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -18944,7 +18946,8 @@
       "rating": 1681.3263732456,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -18979,7 +18982,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -19014,7 +19018,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -19348,7 +19353,8 @@
       "rating": 1453.1833769825,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -19813,7 +19819,8 @@
       "rating": 2129.7051442916,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -20044,7 +20051,8 @@
       "rating": 1376.2600892096,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -20210,7 +20218,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -20546,7 +20555,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -21097,7 +21107,8 @@
       "rating": 1565.2483424929,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -21159,7 +21170,8 @@
       "rating": 1352.7250049956,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -21388,7 +21400,8 @@
       "rating": 2259.6572191969,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Greedy + Regret/Undo"
       ]
     },
     {
@@ -21454,7 +21467,8 @@
       "rating": 1285.7282180721,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -21485,7 +21499,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -21529,7 +21544,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -21757,7 +21773,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -21788,7 +21805,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "0/1 Knapsack"
+        "0/1 Knapsack",
+        "Greedy + Regret/Undo"
       ]
     },
     {
@@ -22034,7 +22052,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -22646,7 +22665,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -22830,7 +22850,8 @@
       "rating": 2134.5448970405,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -23154,7 +23175,8 @@
       "rating": 1242.4710735813,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -23413,7 +23435,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -23723,7 +23746,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -23809,7 +23833,8 @@
       "rating": 1448.1207963663,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -23895,7 +23920,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -24068,7 +24094,8 @@
       "rating": 1547.5714796512,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -24094,7 +24121,8 @@
       "rating": 1876.3854625677,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -24481,7 +24509,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -24621,7 +24650,8 @@
       "rating": 1675.989407584,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -24690,7 +24720,8 @@
       "rating": 1340.5559417151,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -24900,7 +24931,8 @@
       "rating": 1474.0150725665,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -25092,7 +25124,8 @@
       "rating": 1909.4189035523,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -25215,7 +25248,8 @@
       "techniques": [
         "Bit Manipulation",
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -25354,7 +25388,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Interval DP"
+        "Interval DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -25450,7 +25485,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -25476,7 +25512,8 @@
       "rating": 1274.6742564805,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -25522,7 +25559,8 @@
       "rating": 1541.348438509,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -25668,7 +25706,8 @@
       "rating": 1378.7570411077,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -25953,7 +25992,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Linear DP"
+        "Linear DP",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -26097,7 +26137,8 @@
       "rating": 1348.0079390256,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Exchange Argument"
       ]
     },
     {
@@ -26711,7 +26752,8 @@
       "rating": 1633.1789521619,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -26749,7 +26791,8 @@
       "rating": 1701.5735371897,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -27221,7 +27264,8 @@
       "rating": 2189.3802630548,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -27581,7 +27625,8 @@
       "rating": 1501.1152614679,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -27687,7 +27732,8 @@
       "rating": 1441.4290319373,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -28058,7 +28104,8 @@
       "rating": 1569.7528744586,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -28384,7 +28431,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Monotonic Stack",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -28529,7 +28577,8 @@
       "techniques": [
         "Greedy",
         "Monotonic Stack",
-        "Interval DP"
+        "Interval DP",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -28766,7 +28815,8 @@
       "techniques": [
         "Prefix Sum",
         "Game Theory",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -28840,7 +28890,8 @@
       "rating": 1558.7188539503,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -28936,7 +28987,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -29397,7 +29449,8 @@
       "rating": 1481.5701319876,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -29643,7 +29696,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -29799,7 +29853,8 @@
       "rating": 2366.7099607655,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -30066,7 +30121,8 @@
       "rating": 1248.8026990632,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -30148,7 +30204,8 @@
       "rating": 2250.2578740769,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -30378,7 +30435,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -30605,7 +30663,8 @@
       "rating": 1407.5442381391,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -30701,7 +30760,8 @@
       "rating": 1219.5284561367,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -31336,7 +31396,8 @@
       "rating": 1597.0215918551,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -31371,7 +31432,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -31481,7 +31543,8 @@
       "rating": 1505.8669082864,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -31787,7 +31850,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Linear DP"
+        "Linear DP",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -32257,7 +32321,8 @@
       "rating": 1267.223591366,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -32491,7 +32556,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -32583,7 +32649,8 @@
       "rating": 1490.2370387981,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -32920,7 +32987,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -33018,7 +33086,8 @@
       "rating": 1483.8137189709,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -33221,7 +33290,8 @@
       "rating": 1193.9819783429,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -33298,7 +33368,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Linear DP"
+        "Linear DP",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -33336,7 +33407,8 @@
       "rating": 1473.864993045,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -33584,7 +33656,8 @@
       "rating": 1303.022570497,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -33947,7 +34020,8 @@
       "rating": 1473.7057465272,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -33977,7 +34051,8 @@
       "rating": 2015.7291888336,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -34229,7 +34304,8 @@
       "rating": 1822.9768689716,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -34445,7 +34521,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -34759,7 +34836,8 @@
       "rating": 2091.3820373571,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -34837,7 +34915,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -34892,7 +34971,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Linear DP"
+        "Linear DP",
+        "Greedy + Regret/Undo"
       ]
     },
     {
@@ -35186,7 +35266,8 @@
       "rating": 1530.495439788,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -35237,7 +35318,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Linear DP"
+        "Linear DP",
+        "Sort + Scan"
       ]
     },
     {
@@ -35263,7 +35345,8 @@
       "rating": 1288.1970048184,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -35315,7 +35398,8 @@
       "rating": 1820.58557644,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -35488,7 +35572,8 @@
       "rating": 1212.2309421538,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -35510,7 +35595,8 @@
       "rating": 1465.7023558248,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -35645,7 +35731,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -35683,7 +35770,8 @@
       "rating": 1237.7565585875,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -35710,7 +35798,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -35943,7 +36032,8 @@
       "rating": 1426.7384112327,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -35969,7 +36059,8 @@
       "rating": 1436.1125054038,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -36199,7 +36290,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -36265,7 +36357,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Grid DP"
+        "Grid DP",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -36760,7 +36853,8 @@
       "rating": 1444.6098846511,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -37140,7 +37234,8 @@
       "rating": 1104.7359028407,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -37174,7 +37269,8 @@
       "rating": 1284.3625733813,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -37371,7 +37467,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Greedy + Regret/Undo"
       ]
     },
     {
@@ -37894,7 +37991,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -37920,7 +38018,8 @@
       "rating": 1653.0356626499,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -38190,7 +38289,8 @@
       "rating": 2362.6480880348,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -38289,7 +38389,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -38325,7 +38426,8 @@
       "techniques": [
         "Bit Manipulation",
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix XOR"
       ]
     },
     {
@@ -38361,7 +38463,8 @@
       "techniques": [
         "Greedy",
         "Monotonic Stack",
-        "Linear DP"
+        "Linear DP",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -38419,7 +38522,8 @@
       "rating": 1392.6601629182,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -38575,7 +38679,8 @@
       "rating": 1880.5909929633,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -38606,7 +38711,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -38698,7 +38804,8 @@
       "rating": 1759.0197295594,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -38817,7 +38924,9 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix/Running-Quantity Greedy",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -39068,7 +39177,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -39159,7 +39269,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Game Theory"
+        "Game Theory",
+        "Sort + Scan"
       ]
     },
     {
@@ -39309,7 +39420,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Linear DP"
+        "Linear DP",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -39621,7 +39733,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -39858,7 +39971,8 @@
       "rating": 1408.7923640745,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -39889,7 +40003,9 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference/Frequency Greedy",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -39915,7 +40031,8 @@
       "rating": 2038.8592725467,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -40301,7 +40418,8 @@
       "rating": 1867.8619694847,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -40710,7 +40828,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -41255,7 +41374,8 @@
       "rating": 1962.2005269503,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Greedy + Regret/Undo"
       ]
     },
     {
@@ -41373,7 +41493,8 @@
       "rating": 1509.5432131875,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -41412,7 +41533,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -41711,7 +41833,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -41832,7 +41955,8 @@
       "rating": 1460.5903088359,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -41854,7 +41978,8 @@
       "rating": 1590.269030833,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -41880,7 +42005,8 @@
       "rating": 1900.8434122725,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Exchange Argument"
       ]
     },
     {
@@ -42107,7 +42233,8 @@
       "rating": 2333.2401505813,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -42137,7 +42264,8 @@
       "rating": 2533.3027905062,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -42384,7 +42512,8 @@
       "rating": 1495.715740828,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -42423,7 +42552,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Game Theory"
+        "Game Theory",
+        "Exchange Argument"
       ]
     },
     {
@@ -42467,7 +42597,8 @@
       "techniques": [
         "Prefix Sum",
         "Segment Tree / Fenwick Tree",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -42509,7 +42640,8 @@
       "rating": 1355.3825442341,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -42827,7 +42959,8 @@
       "rating": 1825.4207082682,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -42859,7 +42992,8 @@
       "techniques": [
         "Greedy",
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -42905,7 +43039,8 @@
       "rating": 1929.9086934334,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -43018,7 +43153,8 @@
       "rating": 1309.8100518373,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -43070,7 +43206,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -43179,7 +43316,8 @@
       "rating": 1867.9916069568,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Exchange Argument"
       ]
     },
     {
@@ -43450,7 +43588,8 @@
       "rating": 1926.7059583253,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -43576,7 +43715,8 @@
       "rating": 1256.6807087287,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -43602,7 +43742,8 @@
       "rating": 1983.70440706,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -43678,7 +43819,8 @@
       "rating": 1264.4836883082,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -43708,7 +43850,8 @@
       "rating": 1952.7073399331,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -43756,7 +43899,8 @@
       "techniques": [
         "Divide and Conquer",
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -43903,7 +44047,8 @@
       "rating": 1858.9581916885,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -44102,7 +44247,8 @@
       "rating": 1487.5826663483,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -44129,7 +44275,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -44516,7 +44663,8 @@
       "rating": 1294.7724244077,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -44665,7 +44813,8 @@
       "rating": 1850.4091449367,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -45080,7 +45229,8 @@
       "rating": 1817.9978644712,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -45230,7 +45380,8 @@
       "rating": 1931.0849921121,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -45898,7 +46049,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "State Machine DP"
+        "State Machine DP",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -45972,7 +46124,8 @@
       "rating": 1314.8600143277,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -46023,7 +46176,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -46121,7 +46275,8 @@
       "rating": 1252.7479413966,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -46248,7 +46403,9 @@
         "Greedy",
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Sort + Scan",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -46408,7 +46565,8 @@
       "rating": 1454.3901912166,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -46608,7 +46766,8 @@
       "rating": 1370.4186698287,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -46666,7 +46825,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Monotonic Stack",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -46844,7 +47004,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -46906,7 +47067,8 @@
       "rating": 1600.5573262373,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -47062,7 +47224,8 @@
       "techniques": [
         "Sliding Window",
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -47098,7 +47261,8 @@
       "techniques": [
         "Prefix Sum",
         "Game Theory",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -47215,7 +47379,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -47253,7 +47418,8 @@
       "rating": 1897.5516652727,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -47322,7 +47488,8 @@
       "rating": 1381.2168789318,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -47510,7 +47677,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -47588,7 +47756,8 @@
       "rating": 1307.3797385769,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -47619,7 +47788,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -47645,7 +47815,8 @@
       "rating": 1781.3664141686,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -47752,7 +47923,8 @@
       "rating": 1635.6879273926,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -47854,7 +48026,8 @@
       "rating": 1248.8547072235,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -47932,7 +48105,8 @@
       "rating": 2146.639581998,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -48153,7 +48327,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -48303,7 +48478,8 @@
       "rating": 1527.6868660176,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -48537,7 +48713,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -48667,7 +48844,8 @@
       "rating": 1322.5926536743,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -48847,7 +49025,8 @@
       "rating": 1969.2019235672,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -48919,7 +49098,8 @@
       "rating": 1445.3734269673,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -49102,7 +49282,8 @@
       "rating": 1803.7518552874,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -49255,7 +49436,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -49337,7 +49519,8 @@
       "rating": 1418.6847740057,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -49368,7 +49551,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -49485,7 +49669,8 @@
       "rating": 1499.3290269267,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -49643,7 +49828,8 @@
       "rating": 1364.154859918,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -49669,7 +49855,8 @@
       "rating": 1648.0880791614,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -49727,7 +49914,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -50075,7 +50263,8 @@
       "rating": 1302.6469071738,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -50254,7 +50443,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Sort + Scan"
       ]
     },
     {
@@ -50563,7 +50753,8 @@
       "rating": 1557.017055582,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -50827,7 +51018,8 @@
       "rating": 1718.9772466681,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -51023,7 +51215,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -51058,7 +51251,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -51096,7 +51290,8 @@
       "rating": 1346.3556309143,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -51186,7 +51381,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Greedy + Regret/Undo"
       ]
     },
     {
@@ -51415,7 +51611,8 @@
       "rating": 1356.6925765299,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -51446,7 +51643,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Game Theory"
+        "Game Theory",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -51878,7 +52076,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -52269,7 +52468,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -52405,7 +52605,8 @@
       "rating": 1240.829758176,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -52601,7 +52802,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -52975,7 +53177,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -53146,7 +53349,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -53396,7 +53600,8 @@
       "rating": 2037.6527962599,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -53494,7 +53699,8 @@
       "rating": 1760.9131492436,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -53627,7 +53833,8 @@
       "rating": 1334.5708444649,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -53766,7 +53973,8 @@
       "rating": 1556.8824239708,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -53797,7 +54005,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -53903,7 +54112,8 @@
       "rating": 2033.4597721985,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Exchange Argument"
       ]
     },
     {
@@ -53965,7 +54175,8 @@
       "rating": 1417.3934930077,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -54080,7 +54291,8 @@
       "rating": 1260.9112824221,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -54102,7 +54314,8 @@
       "rating": 1614.4877804672,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -54503,7 +54716,8 @@
       "rating": 1314.2912238536,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -54747,7 +54961,8 @@
       "rating": 1662.6673692545,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -54783,7 +54998,9 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Sort + Scan",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -54937,7 +55154,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Backtracking"
+        "Backtracking",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -55055,7 +55273,8 @@
       "rating": 1680.1353258588,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -55335,7 +55554,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -55381,7 +55601,8 @@
       "rating": 1658.921022733,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -55545,7 +55766,8 @@
       "rating": 1716.9721777,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -55672,7 +55894,9 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix/Running-Quantity Greedy",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -55698,7 +55922,8 @@
       "rating": 1550.0978082682,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -55725,7 +55950,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -55893,7 +56119,8 @@
       "rating": 1509.5562928491,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -55939,7 +56166,8 @@
       "rating": 2157.5814371481,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -56036,7 +56264,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -56096,7 +56325,8 @@
       "rating": 1295.8868965907,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -56304,7 +56534,8 @@
       "rating": 1685.5389350949,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -56350,7 +56581,8 @@
         "Greedy",
         "Two Pointers",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -56486,7 +56718,8 @@
       "rating": 1616.2067360638,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -56566,7 +56799,8 @@
       "rating": 1371.8092952004,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -56592,7 +56826,8 @@
       "rating": 2036.7410194704,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -56795,7 +57030,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -56893,7 +57129,8 @@
       "rating": 1394.9149882274,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -56975,7 +57212,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -57272,7 +57510,8 @@
       "rating": 1334.0516779626,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -57313,7 +57552,9 @@
         "Greedy",
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Interval Merging/Covering",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -57518,7 +57759,8 @@
       "rating": 1249.2572200035,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -57581,7 +57823,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Monotonic Stack",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -57691,7 +57934,8 @@
       "rating": 1496.2502937005,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -57921,7 +58165,8 @@
       "rating": 1416.4124723866,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -58140,7 +58385,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -58393,7 +58639,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -58941,7 +59188,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -59002,7 +59250,8 @@
       "rating": 1360.421258727,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -59384,7 +59633,8 @@
       "rating": 1960.5763266754,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -59591,7 +59841,8 @@
       "rating": 1225.3923012413,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -59818,7 +60069,8 @@
       "rating": 2060.379991517,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -60064,7 +60316,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Backtracking"
+        "Backtracking",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -60200,7 +60453,8 @@
       "rating": 1793.3037316825,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -60231,7 +60485,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Union-Find",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -60253,7 +60508,8 @@
       "rating": 1413.4238697034,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -60283,7 +60539,8 @@
       "rating": 1636.47322627,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -60418,7 +60675,9 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Sort + Scan",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -60468,7 +60727,8 @@
       "rating": 1455.8516200241,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -60664,7 +60924,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -60849,7 +61110,8 @@
       "rating": 1355.3956434989,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -60889,7 +61151,9 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Interval Merging/Covering",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -61012,7 +61276,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -61070,7 +61335,8 @@
       "rating": 2092.0222850837,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Exchange Argument"
       ]
     },
     {
@@ -61268,7 +61534,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -61524,7 +61791,8 @@
       "rating": 1289.945159062,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -61547,7 +61815,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -61776,7 +62045,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -61812,7 +62082,9 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix/Running-Quantity Greedy",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -62069,7 +62341,9 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Sort + Scan",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -62095,7 +62369,8 @@
       "rating": 2076.0155978787,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -62698,7 +62973,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -62863,7 +63139,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -62973,7 +63250,8 @@
       "rating": 1494.500749598,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -63017,7 +63295,8 @@
       "rating": 1207.3151378208,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -63044,7 +63323,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -63101,7 +63381,8 @@
       "rating": 1998.889914712,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -63333,7 +63614,8 @@
       "rating": 1682.16892078,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -63360,7 +63642,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -63390,7 +63673,8 @@
       "rating": 2633.0144045478,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -63892,7 +64176,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -64025,7 +64310,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -64192,7 +64478,9 @@
         "Greedy",
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix/Running-Quantity Greedy",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -64244,7 +64532,8 @@
       "rating": 1386.1200017827,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -64378,7 +64667,8 @@
       "rating": 1583.3117784523,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -64554,7 +64844,8 @@
       "rating": 2056.2598215101,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Greedy + Regret/Undo"
       ]
     },
     {
@@ -64770,7 +65061,8 @@
       "rating": 2042.4005521254,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -64806,7 +65098,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Prefix Sum",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -64861,7 +65154,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -65002,7 +65296,8 @@
       "rating": 1435.0179887342,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -65033,7 +65328,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -65063,7 +65359,8 @@
       "rating": 2221.793185714,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -65199,7 +65496,8 @@
       "rating": 1396.1044458638,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -65225,7 +65523,8 @@
       "rating": 1608.577875807,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -65326,7 +65625,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -65428,7 +65728,8 @@
       "rating": 1206.0712568518,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -65488,7 +65789,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -65553,7 +65855,8 @@
       "rating": 1350.5883729249,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -65779,7 +66082,9 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Sort + Scan",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -65810,7 +66115,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -65845,7 +66151,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -65930,7 +66237,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -66109,7 +66417,8 @@
       "rating": 1845.6611654401,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -66155,7 +66464,8 @@
       "rating": 1434.2392062372,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -66190,7 +66500,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -66221,7 +66532,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -66369,7 +66681,8 @@
       "rating": 2071.3208991938,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -66457,7 +66770,8 @@
       "rating": 1663.456591933,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -66582,7 +66896,8 @@
       "rating": 1793.3033536992,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -66617,7 +66932,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -66960,7 +67276,8 @@
       "rating": 1314.3600610974,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -67092,7 +67409,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -67304,7 +67622,8 @@
       "rating": 1213.4070467355,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -67410,7 +67729,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Sort + Scan"
       ]
     },
     {
@@ -67506,7 +67826,8 @@
       "rating": 2415.7434855724,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -67686,7 +68007,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Tree DP"
+        "Tree DP",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -67823,7 +68145,9 @@
       "techniques": [
         "Greedy",
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix/Running-Quantity Greedy",
+        "Prefix XOR"
       ]
     },
     {
@@ -67858,7 +68182,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -68151,7 +68476,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Two-Pointer Greedy"
       ]
     },
     {
@@ -68305,7 +68631,8 @@
       "rating": 1207.7491943483,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -68385,7 +68712,8 @@
         "Brute Force / Enumeration",
         "Greedy",
         "Backtracking",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Sort + Scan"
       ]
     },
     {
@@ -68482,7 +68810,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -68835,7 +69164,8 @@
       "rating": 1922.9521758079,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -68907,7 +69237,8 @@
       "rating": 1405.123188264,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -69785,7 +70116,8 @@
       "rating": 2029.4024513478,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -70130,7 +70462,8 @@
       "rating": 1484.8385256564,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -70165,7 +70498,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -70559,7 +70893,8 @@
       "rating": 1543.1204810684,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -70637,7 +70972,8 @@
       "rating": 2582.0814855506,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Greedy + Regret/Undo"
       ]
     },
     {
@@ -70774,7 +71110,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Sort + Scan"
       ]
     },
     {
@@ -70990,7 +71327,8 @@
       "rating": 1347.2146542772,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -71122,7 +71460,8 @@
       "rating": 1409.2288385791,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -71149,7 +71488,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -71327,7 +71667,8 @@
       "rating": 2091.6580433632,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -71406,7 +71747,8 @@
       "rating": 2073.048019317,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -71488,7 +71830,8 @@
       "rating": 1229.7575626899,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -71699,7 +72042,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -71904,7 +72248,8 @@
       "rating": 1237.693464609,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -72083,7 +72428,8 @@
       "rating": 1392.3629194433,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -72110,7 +72456,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -72195,7 +72542,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -72477,7 +72825,8 @@
       "rating": 1351.6909336495,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -72530,7 +72879,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -72601,7 +72951,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -72749,7 +73100,8 @@
       "rating": 2074.8331146269,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -72831,7 +73183,8 @@
       "rating": 2132.1944636902,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -73351,7 +73704,8 @@
       "rating": 1822.3170524016,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -73540,7 +73894,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -73762,7 +74117,8 @@
         "Binary Search",
         "Monotonic Stack",
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -73829,7 +74185,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -73889,7 +74246,8 @@
       "rating": 2444.7192647604,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -73965,7 +74323,8 @@
       "rating": 1784.3506628869,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -74094,7 +74453,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -74328,7 +74688,8 @@
       "rating": 1395.9639246414,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -74363,7 +74724,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -74399,7 +74761,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -74494,7 +74857,9 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Sort + Scan",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -74842,7 +75207,8 @@
       "rating": 2779.7855167601,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -75220,7 +75586,8 @@
       "rating": 1917.4314822412,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -75536,7 +75903,8 @@
       "rating": 1832.7167755024,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -75592,7 +75960,8 @@
       "rating": 1324.2140587436,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -75619,7 +75988,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Breadth-First Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -75653,7 +76023,8 @@
       "rating": 1533.5722750742,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -75675,7 +76046,8 @@
       "rating": 2709.4067070911,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -75900,7 +76272,8 @@
       "rating": 1816.556997127,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -75960,7 +76333,8 @@
       "rating": 1115.8258444602,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -76146,7 +76520,8 @@
       "rating": 1856.6336926997,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -76917,7 +77292,8 @@
       "techniques": [
         "Greedy",
         "Bit Manipulation",
-        "Tree DP"
+        "Tree DP",
+        "Sort + Scan"
       ]
     },
     {
@@ -76963,7 +77339,8 @@
       "rating": 1498.6899053656,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -77067,7 +77444,8 @@
       "rating": 1197.5462481787,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -77093,7 +77471,8 @@
       "rating": 1325.805380292,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -77150,7 +77529,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -77268,7 +77648,8 @@
       "rating": 1904.6714229335,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -77368,7 +77749,8 @@
       "rating": 1764.7072848367,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -77400,7 +77782,8 @@
       "techniques": [
         "Greedy",
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -77636,7 +78019,8 @@
       "rating": 1500.9381282198,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -77853,7 +78237,8 @@
       "rating": 1515.4316202561,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -77879,7 +78264,8 @@
       "rating": 1604.9805572557,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -77992,7 +78378,8 @@
       "rating": 1401.2732392084,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -78456,7 +78843,8 @@
       "rating": 2200.1171591946,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -78478,7 +78866,8 @@
       "rating": 2824.7020346271,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -78896,7 +79285,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -79012,7 +79402,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -79453,7 +79844,8 @@
       "rating": 1772.4702293335,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Heap/Priority-Queue Greedy"
       ]
     },
     {
@@ -79671,7 +80063,8 @@
       "rating": 1369.0113807552,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -79987,7 +80380,8 @@
       "techniques": [
         "Bit Manipulation",
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -80013,7 +80407,8 @@
       "rating": 1432.7805314078,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -80354,7 +80749,8 @@
       "rating": 1591.3005653292,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -80477,7 +80873,8 @@
       "rating": 1672.7732068421,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -80565,7 +80962,8 @@
       "rating": 1242.8232032062,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -80624,7 +81022,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "Exchange Argument"
       ]
     },
     {
@@ -80650,7 +81049,8 @@
       "rating": 1789.3681547685,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Exchange Argument"
       ]
     },
     {
@@ -80770,7 +81170,8 @@
       "rating": 1996.0986736442,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -80801,7 +81202,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Grid DP"
+        "Grid DP",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -80875,7 +81277,8 @@
       "rating": 1593.301573479,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -80910,7 +81313,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -81287,7 +81691,8 @@
       "rating": 2270.2002503611,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -81438,7 +81843,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -81473,7 +81879,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -81721,7 +82128,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -82009,7 +82417,8 @@
       "rating": 2012.8694334235,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Exchange Argument"
       ]
     },
     {
@@ -82210,7 +82619,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Binary Search"
+        "Binary Search",
+        "Sort + Scan"
       ]
     },
     {
@@ -82232,7 +82642,8 @@
       "rating": 1771.7317932329,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -82507,7 +82918,8 @@
         "Binary Search",
         "Trie",
         "Segment Tree / Fenwick Tree",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -82560,7 +82972,8 @@
         "Greedy",
         "Binary Search",
         "Segment Tree / Fenwick Tree",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -82781,7 +83194,8 @@
       "rating": 1448.2251797153,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -83088,7 +83502,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -83443,7 +83858,8 @@
       "rating": 1864.4526192193,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -83624,7 +84040,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -83972,7 +84389,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -84008,7 +84426,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -84179,7 +84598,8 @@
       "rating": 1397.2898626243,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -84201,7 +84621,8 @@
       "rating": 1591.445677589,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -84233,7 +84654,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -84350,7 +84772,8 @@
       "rating": 1553.2232121523,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -84390,7 +84813,9 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Heap/Priority-Queue Greedy",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -84443,7 +84868,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -84916,7 +85342,8 @@
       "rating": 1943.095489145,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -85326,7 +85753,8 @@
       "rating": 1687.0611664517,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -85441,7 +85869,8 @@
       "rating": 1245.8337430135,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -85649,7 +86078,8 @@
         "Divide and Conquer",
         "Prefix Sum",
         "Segment Tree / Fenwick Tree",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -85753,7 +86183,9 @@
         "Greedy",
         "Sliding Window",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Sort + Scan",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -86049,7 +86481,8 @@
       "rating": 1502.9530838838,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -86084,7 +86517,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Depth-First Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -86126,7 +86560,8 @@
       "rating": 1215.6806967423,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -86256,7 +86691,8 @@
       "rating": 1199.8475039745,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -86325,7 +86761,9 @@
         "Brute Force / Enumeration",
         "Greedy",
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Local Max/Min at Each Step",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -86452,7 +86890,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sliding Window"
+        "Sliding Window",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -86479,7 +86918,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -86624,7 +87064,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -86895,7 +87336,8 @@
       "rating": 1704.1007546159,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -86930,7 +87372,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -87046,7 +87489,8 @@
       "rating": 1416.0720873451,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -87307,7 +87751,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -87499,7 +87944,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Prefix Sum",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -87679,7 +88125,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Depth-First Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -87881,7 +88328,8 @@
       "rating": 2042.1113250604,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -88012,7 +88460,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -88672,7 +89121,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -89127,7 +89577,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -89334,7 +89785,8 @@
       "rating": 1210.9890626716,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Difference/Frequency Greedy"
       ]
     },
     {
@@ -89365,7 +89817,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -89426,7 +89879,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -89671,7 +90125,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Interval Merging/Covering"
       ]
     },
     {
@@ -90065,7 +90520,8 @@
       "rating": 1319.4417036875,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -90180,7 +90636,8 @@
       "rating": 1489.2529299032,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Prefix/Running-Quantity Greedy"
       ]
     },
     {
@@ -90248,7 +90705,8 @@
       "techniques": [
         "Sliding Window",
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -90459,7 +90917,8 @@
       "rating": 1548.3921113773,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -90812,7 +91271,8 @@
       "techniques": [
         "Bit Manipulation",
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix XOR"
       ]
     },
     {
@@ -91566,7 +92026,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Game Theory"
+        "Game Theory",
+        "Sort + Scan"
       ]
     },
     {
@@ -91598,7 +92059,9 @@
       "techniques": [
         "Greedy",
         "Prefix Sum",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Prefix/Running-Quantity Greedy",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -91752,7 +92215,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -91819,7 +92283,8 @@
       "techniques": [
         "Greedy",
         "Two Pointers",
-        "Binary Search"
+        "Binary Search",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -91859,7 +92324,8 @@
       "techniques": [
         "Divide and Conquer",
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -91910,7 +92376,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -92240,7 +92707,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -92271,7 +92739,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Divide and Conquer",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -92302,7 +92771,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -92329,7 +92799,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Divide and Conquer",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Difference Array / Range Update"
       ]
     },
     {
@@ -93061,7 +93532,8 @@
       "rating": 1298.7710723173,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -93180,7 +93652,8 @@
       "rating": 1370.6850302415,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Local Max/Min at Each Step"
       ]
     },
     {
@@ -93314,7 +93787,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -93345,7 +93819,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Union-Find",
-        "Greedy"
+        "Greedy",
+        "Matching/Allocation Greedy"
       ]
     },
     {
@@ -93407,7 +93882,8 @@
       "rating": 1648.808948421,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -93430,7 +93906,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "State Machine DP"
+        "State Machine DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -93593,7 +94070,8 @@
       "rating": 1262.4367018598,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -93640,7 +94118,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -93785,7 +94264,8 @@
       "rating": 2201.8256032743,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -93914,7 +94394,8 @@
       "techniques": [
         "Divide and Conquer",
         "Prefix Sum",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -93985,7 +94466,8 @@
       "techniques": [
         "Divide and Conquer",
         "Prefix Sum",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -94141,7 +94623,8 @@
       "rating": 1454.9306123736,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -94167,7 +94650,8 @@
       "rating": 1908.8920524591,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -94193,7 +94677,8 @@
       "rating": 2248.0468276972,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -94275,7 +94760,8 @@
       "rating": 1529.058042147,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -94420,7 +94906,8 @@
       "techniques": [
         "Divide and Conquer",
         "Prefix Sum",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -94482,7 +94969,8 @@
       "techniques": [
         "Divide and Conquer",
         "Prefix Sum",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -94615,7 +95103,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -94686,7 +95175,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -94880,7 +95370,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix XOR"
       ]
     },
     {
@@ -94906,7 +95397,8 @@
       "rating": 1968.4923703271,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -95299,7 +95791,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Binary Search"
       ]
     },
     {
@@ -95509,7 +96002,8 @@
       "rating": 1584.7266259671,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Sort + Scan"
       ]
     },
     {
@@ -95709,7 +96203,8 @@
       "rating": 1306.3856807921,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -95901,7 +96396,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Grid DP"
+        "Grid DP",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -96631,7 +97127,8 @@
       "techniques": [
         "Divide and Conquer",
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -97139,7 +97636,8 @@
         "Bit Manipulation",
         "Sliding Window",
         "Prefix Sum",
-        "Trie"
+        "Trie",
+        "Prefix XOR"
       ]
     },
     {
@@ -97545,7 +98043,8 @@
       "rating": 1697.4726349681,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -97588,7 +98087,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Divide and Conquer",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -98046,7 +98546,8 @@
       "rating": 2172.4115085517,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -98265,7 +98766,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -98479,7 +98981,8 @@
       "rating": 2134.9861022118,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
@@ -98555,7 +99058,8 @@
       "rating": 1234.7518772931,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -98577,7 +99081,8 @@
       "rating": 1351.729829883,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -98905,7 +99410,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Prefix Sum"
+        "Prefix Sum",
+        "1D Range Sum Query"
       ]
     },
     {
@@ -99258,7 +99764,8 @@
       "rating": 2052.7953163019,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Prefix Sum"
+        "Prefix Sum",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -99407,7 +99914,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Grid DP"
+        "Grid DP",
+        "2D / Matrix Prefix Sum"
       ]
     },
     {
@@ -99891,7 +100399,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -99936,7 +100445,8 @@
         "Sliding Window",
         "Binary Search",
         "Prefix Sum",
-        "Linear DP"
+        "Linear DP",
+        "Prefix Sum as DP Optimization"
       ]
     },
     {
@@ -100111,7 +100621,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Sliding Window",
-        "Prefix Sum"
+        "Prefix Sum",
+        "Prefix Sum + Hash Table"
       ]
     },
     {
