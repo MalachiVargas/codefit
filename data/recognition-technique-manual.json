@@ -1,0 +1,10 @@
+{
+  "Floyd's Cycle Detection": [876, 2095, 2130],
+  "LRU/LFU Cache Design": [981, 1381, 1472, 1797],
+  "Two-Heaps": [1834, 3013, 3321],
+  "Cyclic Sort / Index-as-Hash": [2965, 3289],
+  "Coordinate Compression": [850, 1331, 1632, 1713, 1943, 2426, 2926, 3161, 3288, 3380, 3382, 3453, 3454],
+  "Meet in the Middle": [805, 1755, 2035],
+  "Boyer-Moore Voting": [],
+  "Multi-Source BFS": [994, 1020, 934, 1162, 1254, 1765, 1970, 2812, 847, 3905]
+}

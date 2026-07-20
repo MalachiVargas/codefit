@@ -1,0 +1,1464 @@
+{
+  "version": "0.1",
+  "source": "Signal taxonomy after Zeitz, The Art and Craft of Problem Solving (strategy -> tactic -> tool). Mappings unvalidated against corpus.",
+  "categories": [
+    {
+      "key": "objective",
+      "label": "Objective",
+      "desc": "what's asked"
+    },
+    {
+      "key": "structure",
+      "label": "Structure",
+      "desc": "input shape"
+    },
+    {
+      "key": "property",
+      "label": "Property",
+      "desc": "exploitable math"
+    },
+    {
+      "key": "constraint",
+      "label": "Constraint",
+      "desc": "n & bounds"
+    }
+  ],
+  "signals": [
+    {
+      "id": "S01",
+      "name": "Optimal substructure",
+      "cat": "property",
+      "cue": [
+        "Answer for the whole input decomposes into answers for ",
+        [
+          "prefixes / smaller inputs"
+        ],
+        "; the same subproblem recurs across choices. Ask: ",
+        [
+          "“if I knew the answer for the first i elements, could I extend it?”"
+        ]
+      ]
+    },
+    {
+      "id": "S02",
+      "name": "Count the ways",
+      "cat": "objective",
+      "cue": [
+        [
+          "“How many ways / distinct sequences / valid strings…”"
+        ],
+        " with an answer too large to enumerate — usually ",
+        [
+          "“return modulo 1e9+7”"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "Monotone feasibility",
+      "cat": "property",
+      "cue": [
+        [
+          "“Minimize the maximum” / “maximize the minimum” / “smallest x such that…”"
+        ],
+        ". If answer x works, every larger (or smaller) x works too — and checking one fixed x is easy."
+      ]
+    },
+    {
+      "id": "S04",
+      "name": "Contiguous window",
+      "cat": "objective",
+      "cue": [
+        "Longest / shortest / count of a ",
+        [
+          "contiguous subarray or substring"
+        ],
+        " satisfying a condition."
+      ]
+    },
+    {
+      "id": "S05",
+      "name": "Window validity is monotone",
+      "cat": "property",
+      "cue": [
+        "Growing the window pushes validity in ",
+        [
+          "one direction only"
+        ],
+        " (positive sums only grow; adding chars only adds duplicates) — so the left edge ",
+        [
+          "never moves backward"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S06",
+      "name": "Sortable input",
+      "cat": "structure",
+      "cue": [
+        "Input arrives ",
+        [
+          "already sorted"
+        ],
+        ", or the answer ",
+        [
+          "doesn't depend on original order"
+        ],
+        " — so you may sort for free."
+      ]
+    },
+    {
+      "id": "S07",
+      "name": "Pair condition",
+      "cat": "objective",
+      "cue": [
+        "Find or count ",
+        [
+          "pairs (i, j)"
+        ],
+        " satisfying a sum / difference / ratio condition."
+      ]
+    },
+    {
+      "id": "S08",
+      "name": "Repeated range aggregates",
+      "cat": "objective",
+      "cue": [
+        "Many queries of the form ",
+        [
+          "“sum / count over a[l..r]”"
+        ],
+        " on a ",
+        [
+          "static"
+        ],
+        " array."
+      ]
+    },
+    {
+      "id": "S09",
+      "name": "Nearest greater / smaller",
+      "cat": "objective",
+      "cue": [
+        "For each element: ",
+        [
+          "next / previous greater or smaller element"
+        ],
+        "; “visible” buildings; stock span; trapped water; largest rectangle."
+      ]
+    },
+    {
+      "id": "S10",
+      "name": "Incremental connectivity",
+      "cat": "objective",
+      "cue": [
+        "Edges arrive ",
+        [
+          "one at a time"
+        ],
+        "; queries like ",
+        [
+          "“are u and v in the same group?”"
+        ],
+        ", count components, merge accounts."
+      ]
+    },
+    {
+      "id": "S11",
+      "name": "Min steps, uniform cost",
+      "cat": "objective",
+      "cue": [
+        [
+          "Minimum number of moves"
+        ],
+        " where every move costs the same; states + transitions form an ",
+        [
+          "implicit unweighted graph"
+        ],
+        " (word ladder, lock combos, grid escape)."
+      ]
+    },
+    {
+      "id": "S12",
+      "name": "Min-cost path, weighted",
+      "cat": "objective",
+      "cue": [
+        "Minimum total ",
+        [
+          "cost / time / effort"
+        ],
+        " path where steps cost ",
+        [
+          "different amounts"
+        ],
+        ". Nonnegative → Dijkstra; negative edges or “at most k edges” → Bellman-Ford."
+      ]
+    },
+    {
+      "id": "S13",
+      "name": "Dependency order",
+      "cat": "structure",
+      "cue": [
+        [
+          "Prerequisites, “a must come before b”"
+        ],
+        ", build/course order; detect impossible = ",
+        [
+          "cycle in a DAG"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S14",
+      "name": "Repeated extreme extraction",
+      "cat": "objective",
+      "cue": [
+        [
+          "Repeatedly take / merge / remove the current min or max"
+        ],
+        "; “k-th largest”; keep best k from a stream; merge k sorted lists."
+      ]
+    },
+    {
+      "id": "S15",
+      "name": "Complement membership",
+      "cat": "property",
+      "cue": [
+        "While scanning you only need: has a ",
+        [
+          "computable partner value"
+        ],
+        " (target − x, same key, x seen before) ",
+        [
+          "already occurred?"
+        ]
+      ]
+    },
+    {
+      "id": "S16",
+      "name": "Tiny n → subsets",
+      "cat": "constraint",
+      "cue": [
+        [
+          "n ≤ ~20"
+        ],
+        ". Screams ",
+        [
+          "2ⁿ over subsets"
+        ],
+        ": bitmask enumeration or bitmask DP."
+      ]
+    },
+    {
+      "id": "S17",
+      "name": "Small n → O(n²) ok",
+      "cat": "constraint",
+      "cue": [
+        [
+          "n ≤ ~5000"
+        ],
+        ": a quadratic DP or double loop is the ",
+        [
+          "intended"
+        ],
+        " solution."
+      ]
+    },
+    {
+      "id": "S18",
+      "name": "Large n → O(n log n)",
+      "cat": "constraint",
+      "cue": [
+        [
+          "n ≥ ~1e5"
+        ],
+        ": rules out quadratic brute force; hints ",
+        [
+          "sort / heap / binary search / one pass"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S19",
+      "name": "Huge numeric answer domain",
+      "cat": "constraint",
+      "cue": [
+        "The ",
+        [
+          "answer"
+        ],
+        " is a number up to ",
+        [
+          "1e9 / 1e18"
+        ],
+        ", but a candidate is quick to verify — ",
+        [
+          "search the answer space, not the array"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S20",
+      "name": "Interval input",
+      "cat": "structure",
+      "cue": [
+        "Input is a list of ",
+        [
+          "intervals [start, end]"
+        ],
+        ": overlap, merging, covering, max non-overlapping selection, meeting rooms."
+      ]
+    },
+    {
+      "id": "S21",
+      "name": "Revocable commitment",
+      "cat": "property",
+      "cue": [
+        "Choices can be ",
+        [
+          "undone or swapped later"
+        ],
+        " at a known cost (“refund a purchase”, “replace an earlier pick”): ",
+        [
+          "take now, regret later"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S22",
+      "name": "Digit property over a range",
+      "cat": "objective",
+      "cue": [
+        "Count numbers in ",
+        [
+          "[L, R]"
+        ],
+        " whose ",
+        [
+          "digits"
+        ],
+        " satisfy a property — with L, R up to ",
+        [
+          "1e18"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S23",
+      "name": "Grid structure",
+      "cat": "structure",
+      "cue": [
+        [
+          "2D grid"
+        ],
+        " with cell moves — right/down only → DP; 4-directional → search. Path counts, min path sum, islands."
+      ]
+    },
+    {
+      "id": "S24",
+      "name": "Tree input",
+      "cat": "structure",
+      "cue": [
+        "Rooted or unrooted ",
+        [
+          "tree"
+        ],
+        "; answers aggregate over ",
+        [
+          "subtrees or paths"
+        ],
+        " (rob houses on a tree, longest path, subtree sums)."
+      ]
+    },
+    {
+      "id": "S25",
+      "name": "Subarray as prefix difference",
+      "cat": "property",
+      "cue": [
+        "A condition on subarray [l..r] rewrites as a relation between ",
+        [
+          "P[r] and P[l−1]"
+        ],
+        ": sum = k, divisible by k, equal counts of two symbols."
+      ]
+    },
+    {
+      "id": "S26",
+      "name": "XOR / parity structure",
+      "cat": "property",
+      "cue": [
+        "XOR over ranges or pairs; ",
+        [
+          "self-inverse cancellation (x ^ x = 0)"
+        ],
+        "; bits independent per position; ",
+        [
+          "“every element appears twice except…”"
+        ]
+      ]
+    },
+    {
+      "id": "S27",
+      "name": "Shared-prefix queries",
+      "cat": "objective",
+      "cue": [
+        "Many strings + ",
+        [
+          "prefix lookups"
+        ],
+        ": autocomplete, startsWith, longest common prefix over a dictionary, search against a fixed word set."
+      ]
+    },
+    {
+      "id": "S28",
+      "name": "Two-sequence alignment",
+      "cat": "structure",
+      "cue": [
+        [
+          "Two strings/arrays"
+        ],
+        " compared or transformed into each other: common subsequence, edit distance, interleaving. State is naturally ",
+        [
+          "(i, j)"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S29",
+      "name": "Bulk range updates",
+      "cat": "objective",
+      "cue": [
+        "Many operations ",
+        [
+          "“add v to every index in [l..r]”"
+        ],
+        "; the final array (or its max) is read ",
+        [
+          "once, at the end"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S30",
+      "name": "Adversarial turns",
+      "cat": "structure",
+      "cue": [
+        [
+          "Two players alternate"
+        ],
+        ", both playing optimally; ",
+        [
+          "“who wins”"
+        ],
+        " or best guaranteed score."
+      ]
+    },
+    {
+      "id": "S31",
+      "name": "Locate in sorted",
+      "cat": "objective",
+      "cue": [
+        "Find a ",
+        [
+          "value / boundary / first-true position"
+        ],
+        " in an explicitly sorted array; rotated sorted array; peak finding."
+      ]
+    },
+    {
+      "id": "S32",
+      "name": "Capacity, choose once",
+      "cat": "structure",
+      "cue": [
+        "Items with ",
+        [
+          "weight / value"
+        ],
+        ", a ",
+        [
+          "capacity bound"
+        ],
+        ", each item used ",
+        [
+          "at most once"
+        ],
+        "; subset-sum / partition phrasing."
+      ]
+    },
+    {
+      "id": "S33",
+      "name": "Capacity, unlimited reuse",
+      "cat": "structure",
+      "cue": [
+        "Capacity problem where each item is usable ",
+        [
+          "unlimited times"
+        ],
+        " (coin change, combinations summing to target)."
+      ]
+    },
+    {
+      "id": "S34",
+      "name": "Combinable halves",
+      "cat": "property",
+      "cue": [
+        "Answer for whole = ",
+        [
+          "merge of two halves + cross-boundary work"
+        ],
+        " (count inversions, closest pair — merge-sort-shaped)."
+      ]
+    },
+    {
+      "id": "S35",
+      "name": "Small mode set per step",
+      "cat": "property",
+      "cue": [
+        "At each position you're in one of a ",
+        [
+          "small named set of modes"
+        ],
+        " (holding / sold / cooldown, k transactions left) with allowed transitions."
+      ]
+    },
+    {
+      "id": "S36",
+      "name": "Range-collapse order matters",
+      "cat": "property",
+      "cue": [
+        "Operations act on a contiguous range and the ",
+        [
+          "order of collapsing determines cost"
+        ],
+        " (burst balloons, merge stones): answer over [i..j] ",
+        [
+          "splits at an interior point"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S37",
+      "name": "Everything fits the budget",
+      "cat": "constraint",
+      "cue": [
+        "Constraints so small (",
+        [
+          "n ≤ ~100"
+        ],
+        " with cheap ops, or total combos ≤ ~1e7) that ",
+        [
+          "trying everything"
+        ],
+        " is the intended solution."
+      ]
+    },
+    {
+      "id": "S38",
+      "name": "Enumerate configurations",
+      "cat": "objective",
+      "cue": [
+        "Output ",
+        [
+          "all valid configurations"
+        ],
+        " (permutations, boards) or construct one under hard constraints — needs ",
+        [
+          "build-and-prune"
+        ],
+        ", not just counting."
+      ]
+    },
+    {
+      "id": "S39",
+      "name": "Connect all, min cost",
+      "cat": "objective",
+      "cue": [
+        [
+          "Connect every node/city/point"
+        ],
+        " so all are mutually reachable at ",
+        [
+          "minimum total edge cost"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S40",
+      "name": "All-pairs distances",
+      "cat": "objective",
+      "cue": [
+        "Distances between ",
+        [
+          "every pair"
+        ],
+        " of nodes needed, with ",
+        [
+          "n ≤ ~400"
+        ],
+        "; “city with fewest reachable neighbors within threshold”."
+      ]
+    },
+    {
+      "id": "S41",
+      "name": "Probability / expectation",
+      "cat": "objective",
+      "cue": [
+        [
+          "Probability of an outcome or expected value"
+        ],
+        " after random steps (knight on a board, soup servings)."
+      ]
+    },
+    {
+      "id": "S42",
+      "name": "Safe local choice",
+      "cat": "property",
+      "cue": [
+        "A ",
+        [
+          "locally best choice provably never hurts"
+        ],
+        " the global optimum — an exchange/swap argument would prove it. Often paired with ",
+        [
+          "sorting first"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S43",
+      "name": "Sorted 2D matrix",
+      "cat": "structure",
+      "cue": [
+        "Matrix with ",
+        [
+          "sorted rows and/or columns"
+        ],
+        "; search a value or find the ",
+        [
+          "k-th smallest"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S44",
+      "name": "Running-quantity constraint",
+      "cat": "property",
+      "cue": [
+        "Process left-to-right maintaining a ",
+        [
+          "running quantity"
+        ],
+        " (balance, fuel, best-sum-ending-here) that must ",
+        [
+          "stay valid — or resets when it goes bad"
+        ],
+        " (gas station, Kadane, parentheses)."
+      ]
+    },
+    {
+      "id": "S45",
+      "name": "Frequencies only",
+      "cat": "property",
+      "cue": [
+        "Answer depends only on ",
+        [
+          "element counts, not positions"
+        ],
+        " (anagrams, make frequencies equal/unique, histogram compare)."
+      ]
+    },
+    {
+      "id": "S46",
+      "name": "Explore reachable region",
+      "cat": "objective",
+      "cue": [
+        [
+          "Count / flood connected regions"
+        ],
+        ", mark everything reachable from seeds, detect cycles in a ",
+        [
+          "static"
+        ],
+        " graph."
+      ]
+    },
+    {
+      "id": "S47",
+      "name": "Queries interleaved with updates",
+      "cat": "objective",
+      "cue": [
+        "Range / order-statistic queries ",
+        [
+          "interleaved with point updates"
+        ],
+        " — prefix sums go stale; “count smaller after self”."
+      ]
+    },
+    {
+      "id": "S48",
+      "name": "Self-similar nesting",
+      "cat": "structure",
+      "cue": [
+        "Input defined ",
+        [
+          "recursively"
+        ],
+        ": nested lists, bracketed expressions, encoded strings (",
+        [
+          "“3[a2[c]]”"
+        ],
+        "), tree serialization."
+      ]
+    },
+    {
+      "id": "S49",
+      "name": "Processing order decides cost",
+      "cat": "property",
+      "cue": [
+        "You choose the ",
+        [
+          "order"
+        ],
+        " of jobs/items and order changes total cost; comparing an ",
+        [
+          "adjacent swap"
+        ],
+        " yields a custom sort key (“largest number from concatenation”)."
+      ]
+    },
+    {
+      "id": "S50",
+      "name": "Fast/slow pointer signature",
+      "cat": "structure",
+      "cue": [
+        "A ",
+        [
+          "linked list"
+        ],
+        " (or index-as-pointer array) where you must ",
+        [
+          "detect a cycle, find the middle, or find a duplicate via repeated jumps"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S51",
+      "name": "Operation-complexity contract",
+      "cat": "objective",
+      "cue": [
+        "The problem ",
+        [
+          "names required time complexity for operations"
+        ],
+        " on a class you design — ",
+        [
+          "“get and put in O(1)”"
+        ],
+        " — not just an overall answer."
+      ]
+    },
+    {
+      "id": "S52",
+      "name": "Timeline events, not fixed ranges",
+      "cat": "structure",
+      "cue": [
+        "Points/intervals on a line where you ",
+        [
+          "process starts and ends in sorted order"
+        ],
+        " as you sweep across — distinct from a fixed static interval list."
+      ]
+    },
+    {
+      "id": "S53",
+      "name": "Pattern occurs inside text",
+      "cat": "objective",
+      "cue": [
+        "Find ",
+        [
+          "all occurrences of a pattern within a larger text"
+        ],
+        ", or detect ",
+        [
+          "repeated substrings"
+        ],
+        ", across strings too long for naive comparison."
+      ]
+    },
+    {
+      "id": "S54",
+      "name": "Balance two running halves",
+      "cat": "property",
+      "cue": [
+        "Maintain a ",
+        [
+          "running median"
+        ],
+        " or keep a stream ",
+        [
+          "balanced around a midpoint"
+        ],
+        " as elements arrive one at a time."
+      ]
+    },
+    {
+      "id": "S55",
+      "name": "Values are a permutation of [1..n]",
+      "cat": "structure",
+      "cue": [
+        "Array of size n containing values from ",
+        [
+          "1 to n (or 0 to n)"
+        ],
+        ", asked to find a ",
+        [
+          "missing or duplicate number"
+        ],
+        " — often ",
+        [
+          "in O(1) extra space"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S56",
+      "name": "Only relative order matters",
+      "cat": "property",
+      "cue": [
+        "Values range up to ",
+        [
+          "1e9"
+        ],
+        " or higher, but the algorithm only needs their ",
+        [
+          "rank / relative order"
+        ],
+        ", not the actual magnitude."
+      ]
+    },
+    {
+      "id": "S57",
+      "name": "n in the 30s–40s",
+      "cat": "constraint",
+      "cue": [
+        [
+          "n ≤ ~40"
+        ],
+        ": too big for full 2ⁿ brute force, too small to need a polynomial trick — split the search space in ",
+        [
+          "two halves"
+        ],
+        "."
+      ]
+    },
+    {
+      "id": "S58",
+      "name": "Statement is a literal procedure",
+      "cat": "objective",
+      "cue": [
+        "The problem describes a ",
+        [
+          "step-by-step process to carry out exactly as stated"
+        ],
+        " — no algorithmic insight needed, just careful bookkeeping."
+      ]
+    },
+    {
+      "id": "S59",
+      "name": "Crosses a majority threshold",
+      "cat": "objective",
+      "cue": [
+        "Find the element appearing ",
+        [
+          "more than n/2 (or n/3) times"
+        ],
+        " — guaranteed to exist, or check if it does."
+      ]
+    },
+    {
+      "id": "S60",
+      "name": "Multiple simultaneous sources",
+      "cat": "structure",
+      "cue": [
+        "Several ",
+        [
+          "starting points spread outward at the same time"
+        ],
+        " (rotting oranges, multi-source fire/infection) rather than a single origin."
+      ]
+    },
+    {
+      "id": "S61",
+      "name": "Number-theory phrasing",
+      "cat": "property",
+      "cue": [
+        "Statement mentions ",
+        [
+          "GCD, LCM, divisors, coprime, prime factorization, or modular exponentiation"
+        ],
+        " directly."
+      ]
+    }
+  ],
+  "techniques": [
+    {
+      "t": "Greedy",
+      "s": [
+        "S42",
+        "S06",
+        "S18"
+      ],
+      "note": "Umbrella. Safe local choice + often sort first; large n rules out DP over choices."
+    },
+    {
+      "t": "Binary Search",
+      "s": [
+        "S31",
+        "S06"
+      ],
+      "note": "Umbrella for explicit search in sorted data."
+    },
+    {
+      "t": "Bit Manipulation",
+      "s": [
+        "S26",
+        "S16"
+      ],
+      "note": "XOR/parity structure, or tiny n inviting bit tricks."
+    },
+    {
+      "t": "Prefix Sum",
+      "s": [
+        "S08",
+        "S25"
+      ],
+      "note": "Umbrella. Static range aggregates or subarray-to-prefix rewrite."
+    },
+    {
+      "t": "Depth-First Search",
+      "s": [
+        "S46",
+        "S23",
+        "S24"
+      ],
+      "note": "Exhaustive exploration of a reachable region on grid/graph/tree."
+    },
+    {
+      "t": "Two Pointers",
+      "s": [
+        "S06",
+        "S07",
+        "S18"
+      ],
+      "note": "Sorted(able) input + pair/shrink condition; large n forbids nested loops."
+    },
+    {
+      "t": "Breadth-First Search",
+      "s": [
+        "S11",
+        "S23"
+      ],
+      "note": "Min steps at uniform cost = shortest path in an unweighted state graph."
+    },
+    {
+      "t": "Brute Force / Enumeration",
+      "s": [
+        "S37"
+      ],
+      "note": "The constraints alone are the signal."
+    },
+    {
+      "t": "Sliding Window",
+      "s": [
+        "S04",
+        "S05",
+        "S18"
+      ],
+      "note": "Contiguous + monotone validity + linear-time budget."
+    },
+    {
+      "t": "Linear DP",
+      "s": [
+        "S01",
+        "S44"
+      ],
+      "note": "1D position state; extend the answer from previous indices."
+    },
+    {
+      "t": "Sequence DP (LCS / Edit Distance)",
+      "s": [
+        "S28",
+        "S01",
+        "S17"
+      ],
+      "note": "Two sequences → (i, j) state; n ≤ 5000 allows O(nm)."
+    },
+    {
+      "t": "Binary Search on Answer (Search Space)",
+      "s": [
+        "S03",
+        "S19"
+      ],
+      "note": "Monotone feasibility over a huge numeric answer domain."
+    },
+    {
+      "t": "Local Max/Min at Each Step",
+      "s": [
+        "S44",
+        "S01"
+      ],
+      "note": "Kadane-style: running best-ending-here with reset."
+    },
+    {
+      "t": "Union-Find",
+      "s": [
+        "S10"
+      ],
+      "note": "Incremental merging + connectivity queries; DFS can't handle online edge additions."
+    },
+    {
+      "t": "Sort + Scan",
+      "s": [
+        "S06",
+        "S42"
+      ],
+      "note": "Order irrelevant → sort, then one safe pass."
+    },
+    {
+      "t": "Segment Tree / Fenwick Tree",
+      "s": [
+        "S47",
+        "S18"
+      ],
+      "note": "Updates interleaved with range queries, at scale."
+    },
+    {
+      "t": "Backtracking",
+      "s": [
+        "S38",
+        "S16"
+      ],
+      "note": "Must construct configurations, not just count; tiny n."
+    },
+    {
+      "t": "Binary Search + Two Pointers / Sliding Window",
+      "s": [
+        "S03",
+        "S04",
+        "S18"
+      ],
+      "note": "The feasibility check for a candidate answer is itself a window/pointer scan."
+    },
+    {
+      "t": "1D Range Sum Query",
+      "s": [
+        "S08"
+      ],
+      "note": "Purest prefix-sum case: static array, sum queries."
+    },
+    {
+      "t": "Difference/Frequency Greedy",
+      "s": [
+        "S45",
+        "S42"
+      ],
+      "note": "Counts-only view + safe local adjustment of frequencies."
+    },
+    {
+      "t": "Grid DP",
+      "s": [
+        "S23",
+        "S01"
+      ],
+      "note": "Grid + restricted moves (right/down) → cell subproblems."
+    },
+    {
+      "t": "Monotonic Stack",
+      "s": [
+        "S09",
+        "S18"
+      ],
+      "note": "Nearest greater/smaller phrasing is near-deterministic."
+    },
+    {
+      "t": "Prefix Sum as DP Optimization",
+      "s": [
+        "S01",
+        "S25",
+        "S18"
+      ],
+      "note": "DP whose transition is a range sum over previous states — collapse it with prefix sums."
+    },
+    {
+      "t": "Bitmask DP",
+      "s": [
+        "S16",
+        "S01"
+      ],
+      "note": "n ≤ 20 + order/assignment subproblems over subsets."
+    },
+    {
+      "t": "Prefix Sum + Hash Table",
+      "s": [
+        "S25",
+        "S15"
+      ],
+      "note": "Subarray condition as prefix difference + “seen this prefix value before?”"
+    },
+    {
+      "t": "Binary Search Optimized DP",
+      "s": [
+        "S01",
+        "S18"
+      ],
+      "note": "DP transition = “best previous compatible state”, maintainable in a sorted structure (LIS patience)."
+    },
+    {
+      "t": "Divide and Conquer",
+      "s": [
+        "S34"
+      ],
+      "note": "Combinable halves with cross-boundary counting."
+    },
+    {
+      "t": "Trie",
+      "s": [
+        "S27"
+      ],
+      "note": "Shared-prefix queries over a word set."
+    },
+    {
+      "t": "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+      "s": [
+        "S47",
+        "S03",
+        "S18"
+      ],
+      "note": "Order statistics or feasibility needing a dynamic structure inside the search."
+    },
+    {
+      "t": "Prefix/Running-Quantity Greedy",
+      "s": [
+        "S44",
+        "S42"
+      ],
+      "note": "Running balance must stay valid; the greedy reset/choice is provably safe (gas station)."
+    },
+    {
+      "t": "Tree DP",
+      "s": [
+        "S24",
+        "S01"
+      ],
+      "note": "Subtree answers combine at each node."
+    },
+    {
+      "t": "Prefix Sum + Binary Search",
+      "s": [
+        "S08",
+        "S31",
+        "S18"
+      ],
+      "note": "Positive values make prefix sums sorted → binary search over them."
+    },
+    {
+      "t": "Topological Sort",
+      "s": [
+        "S13"
+      ],
+      "note": "Dependency phrasing is near-deterministic."
+    },
+    {
+      "t": "Single-Source Shortest Path (Dijkstra / Bellman-Ford)",
+      "s": [
+        "S12"
+      ],
+      "note": "Weighted min-cost path; negative edges or a k-edge cap → Bellman-Ford."
+    },
+    {
+      "t": "Game Theory",
+      "s": [
+        "S30",
+        "S01"
+      ],
+      "note": "Adversarial turns; state DP over “current player's best”."
+    },
+    {
+      "t": "2D / Matrix Prefix Sum",
+      "s": [
+        "S23",
+        "S08"
+      ],
+      "note": "Rectangle-sum queries on a grid."
+    },
+    {
+      "t": "Binary Search + Graph Feasibility (Parametric Search)",
+      "s": [
+        "S03",
+        "S46"
+      ],
+      "note": "Threshold parameter + “is the graph connected/reachable under it?”"
+    },
+    {
+      "t": "Recursion",
+      "s": [
+        "S48"
+      ],
+      "note": "Self-similar nested input mirrors the call structure."
+    },
+    {
+      "t": "State Machine DP",
+      "s": [
+        "S35",
+        "S01"
+      ],
+      "note": "Small named mode set with transitions (stock problems)."
+    },
+    {
+      "t": "0/1 Knapsack",
+      "s": [
+        "S32",
+        "S01"
+      ],
+      "note": "Capacity + use-once items; subset-sum phrasing."
+    },
+    {
+      "t": "Difference Array / Range Update",
+      "s": [
+        "S29"
+      ],
+      "note": "Bulk range additions, read once at the end — no tree needed."
+    },
+    {
+      "t": "Prefix XOR",
+      "s": [
+        "S26",
+        "S25"
+      ],
+      "note": "XOR's self-inverse property makes range XOR a prefix difference."
+    },
+    {
+      "t": "Classic Search in Sorted Array",
+      "s": [
+        "S31",
+        "S06"
+      ],
+      "note": "Explicitly sorted (possibly rotated) array; locate a value or boundary."
+    },
+    {
+      "t": "Heap/Priority-Queue Greedy",
+      "s": [
+        "S14",
+        "S42",
+        "S18"
+      ],
+      "note": "Repeated extreme extraction where the extreme changes dynamically."
+    },
+    {
+      "t": "Interval Merging/Covering",
+      "s": [
+        "S20",
+        "S06",
+        "S42"
+      ],
+      "note": "Interval input + sort by endpoint + safe local selection."
+    },
+    {
+      "t": "Digit DP",
+      "s": [
+        "S22"
+      ],
+      "note": "Digit property over [L, R] with ~1e18 bounds is near-deterministic."
+    },
+    {
+      "t": "Interval DP",
+      "s": [
+        "S36",
+        "S17"
+      ],
+      "note": "Collapse order matters + n small enough for O(n³)."
+    },
+    {
+      "t": "Counting DP",
+      "s": [
+        "S02",
+        "S01"
+      ],
+      "note": "Count ways + substructure; mod 1e9+7 is the tell."
+    },
+    {
+      "t": "Matching/Allocation Greedy",
+      "s": [
+        "S06",
+        "S42",
+        "S07"
+      ],
+      "note": "Two sorted sides matched supply-to-demand (assign cookies, boats)."
+    },
+    {
+      "t": "Exchange Argument",
+      "s": [
+        "S49"
+      ],
+      "note": "Choose a processing order; adjacent-swap comparison yields the sort key."
+    },
+    {
+      "t": "Two-Pointer Greedy",
+      "s": [
+        "S06",
+        "S07",
+        "S42"
+      ],
+      "note": "Sorted, ends inward, with a provably safe pairing choice."
+    },
+    {
+      "t": "Greedy + Regret/Undo",
+      "s": [
+        "S21",
+        "S14"
+      ],
+      "note": "Revocable commitments + a heap holding the best undo candidate."
+    },
+    {
+      "t": "Binary Search on Matrix",
+      "s": [
+        "S43",
+        "S31"
+      ],
+      "note": "Sorted 2D structure searched directly or via value space."
+    },
+    {
+      "t": "Minimum Spanning Tree",
+      "s": [
+        "S39",
+        "S06"
+      ],
+      "note": "“Connect all at min cost”; sort edges (Kruskal) + Union-Find."
+    },
+    {
+      "t": "Multi-Source / All-Pairs Shortest Path (Floyd-Warshall)",
+      "s": [
+        "S40"
+      ],
+      "note": "All-pairs need + small n."
+    },
+    {
+      "t": "Probability DP",
+      "s": [
+        "S41",
+        "S01"
+      ],
+      "note": "Expected value with recursive step structure."
+    },
+    {
+      "t": "Unbounded Knapsack",
+      "s": [
+        "S33",
+        "S01"
+      ],
+      "note": "Capacity + unlimited reuse (coin change)."
+    },
+    {
+      "t": "Floyd's Cycle Detection",
+      "s": [
+        "S50"
+      ],
+      "note": "Fast/slow pointer signature on a linked list or index-as-pointer array."
+    },
+    {
+      "t": "LRU/LFU Cache Design",
+      "s": [
+        "S51"
+      ],
+      "note": "Named per-operation time complexity on a class you design, not an overall answer."
+    },
+    {
+      "t": "Sweep Line",
+      "s": [
+        "S52",
+        "S18"
+      ],
+      "note": "Timeline events processed in sorted order, not a fixed static interval list."
+    },
+    {
+      "t": "KMP / Rolling Hash",
+      "s": [
+        "S53"
+      ],
+      "note": "Pattern-inside-text matching too long for naive O(nm) comparison."
+    },
+    {
+      "t": "Two-Heaps",
+      "s": [
+        "S54"
+      ],
+      "note": "Balance two running halves of a stream (running median) as elements arrive."
+    },
+    {
+      "t": "Cyclic Sort / Index-as-Hash",
+      "s": [
+        "S55"
+      ],
+      "note": "Values are a permutation of [1..n]; place-by-index finds the missing/duplicate in O(1) space."
+    },
+    {
+      "t": "Coordinate Compression",
+      "s": [
+        "S56",
+        "S18"
+      ],
+      "note": "Only relative order matters despite a huge value range — remap to ranks first."
+    },
+    {
+      "t": "Meet in the Middle",
+      "s": [
+        "S57"
+      ],
+      "note": "n too big for full brute force, too small to need polynomial time — split and combine."
+    },
+    {
+      "t": "Simulation",
+      "s": [
+        "S58"
+      ],
+      "note": "Statement is a literal step-by-step procedure — implement it directly."
+    },
+    {
+      "t": "Boyer-Moore Voting",
+      "s": [
+        "S59"
+      ],
+      "note": "Majority-threshold element, guaranteed or checked, found in O(1) space."
+    },
+    {
+      "t": "Multi-Source BFS",
+      "s": [
+        "S60",
+        "S23"
+      ],
+      "note": "Several simultaneous starting points spreading outward together, not a single origin."
+    },
+    {
+      "t": "Math / Number Theory",
+      "s": [
+        "S61"
+      ],
+      "note": "Statement names GCD/LCM/divisors/coprime/modular exponentiation directly."
+    }
+  ]
+}

@@ -157,6 +157,13 @@ export default function WorkoutClient({ patterns, initial }: Props) {
             >
               PROBLEM LIST →
             </Link>
+            <Link
+              href="/signals"
+              className="mono text-[10px] tracking-[0.25em] transition-colors hover:text-[var(--lime)]"
+              style={{ color: 'var(--muted-hi)' }}
+            >
+              SIGNAL GUIDE →
+            </Link>
             <span className="display text-[10px] font-700 tracking-[0.3em]" style={{ color: 'var(--muted)' }}>
               {'v0.1 // CODEFIT.OS'}
             </span>

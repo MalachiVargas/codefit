@@ -54,3 +54,35 @@ export interface ProblemListData {
   ratedCount: number
   problems: ListedProblem[]
 }
+
+export type SignalCategoryKey = 'objective' | 'structure' | 'property' | 'constraint'
+
+export interface SignalCategory {
+  key: SignalCategoryKey
+  label: string
+  desc: string
+}
+
+/** A cue is a mix of plain strings and single-element tuples ([text]) marking the part to highlight. */
+export type SignalCuePart = string | [string]
+
+export interface Signal {
+  id: string
+  name: string
+  cat: SignalCategoryKey
+  cue: SignalCuePart[]
+}
+
+export interface SignalTechnique {
+  t: string
+  s: string[]
+  note: string
+}
+
+export interface SignalsData {
+  version: string
+  source: string
+  categories: SignalCategory[]
+  signals: Signal[]
+  techniques: SignalTechnique[]
+}

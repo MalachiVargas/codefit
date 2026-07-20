@@ -203,6 +203,9 @@ export default function ProblemsExplorer({ problems }: Props) {
           <Link href="/problems" className="font-semibold" style={{ color: C.accent }}>
             Problems
           </Link>
+          <Link href="/signals" className="hover:underline" style={{ color: C.muted }}>
+            Signals
+          </Link>
         </nav>
       </header>
 

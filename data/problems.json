@@ -18457,7 +18457,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Depth-First Search",
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Simulation"
       ]
     },
     {
@@ -18613,7 +18614,9 @@
       ],
       "rating": 1832.2280384591,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 756,
@@ -18704,7 +18707,8 @@
       "rating": 1547.0385279086,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Trie"
+        "Trie",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -18733,7 +18737,9 @@
       ],
       "rating": 1710.1120861153,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Sweep Line"
+      ]
     },
     {
       "lc_id": 760,
@@ -19772,7 +19778,9 @@
       ],
       "rating": 1167.0749837258,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 797,
@@ -20011,7 +20019,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Bitmask DP"
+        "Bitmask DP",
+        "Meet in the Middle"
       ]
     },
     {
@@ -20715,7 +20724,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -21053,7 +21063,8 @@
       "rating": 1227.7906887239,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -21152,7 +21163,8 @@
       "techniques": [
         "Breadth-First Search",
         "Bit Manipulation",
-        "Bitmask DP"
+        "Bitmask DP",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -21225,7 +21237,9 @@
       "rating": 2235.9672341699,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Sweep Line",
+        "Coordinate Compression"
       ]
     },
     {
@@ -21435,7 +21449,9 @@
       ],
       "rating": 1880.7433591583,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 859,
@@ -21677,7 +21693,9 @@
       ],
       "rating": 1938.2224916289,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 867,
@@ -21701,7 +21719,9 @@
       ],
       "rating": 1258.8401788462,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 868,
@@ -21893,7 +21913,9 @@
       ],
       "rating": 1846.3568350016,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 875,
@@ -21937,7 +21959,8 @@
       "rating": 1231.6157956848,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Floyd's Cycle Detection"
       ]
     },
     {
@@ -22168,7 +22191,9 @@
       ],
       "rating": 1678.3947690537,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 886,
@@ -23013,7 +23038,9 @@
       ],
       "rating": 1370.6144908238,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 915,
@@ -23559,7 +23586,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Depth-First Search",
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -23875,7 +23903,9 @@
       ],
       "rating": 1461.9157715206,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 947,
@@ -23997,7 +24027,9 @@
       ],
       "rating": 1686.4493679523,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 951,
@@ -24056,7 +24088,8 @@
       "rating": 2272.1122260637,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Union-Find"
+        "Union-Find",
+        "Math / Number Theory"
       ]
     },
     {
@@ -24878,7 +24911,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+        "LRU/LFU Cache Design"
       ]
     },
     {
@@ -24970,7 +25004,9 @@
       ],
       "rating": 1198.4180401014,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 986,
@@ -24995,7 +25031,8 @@
       "rating": 1541.6944600975,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Sweep Line"
       ]
     },
     {
@@ -25229,7 +25266,8 @@
       "rating": 1432.9051050881,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -25379,7 +25417,9 @@
       ],
       "rating": 1317.9521104466,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1000,
@@ -25556,7 +25596,9 @@
       ],
       "rating": 1407.9870845299,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1007,
@@ -25903,7 +25945,8 @@
       "techniques": [
         "Union-Find",
         "Depth-First Search",
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -25984,7 +26027,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Two Pointers",
-        "Trie"
+        "Trie",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -26484,7 +26528,9 @@
       ],
       "rating": 1521.1768537583,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1042,
@@ -26572,7 +26618,8 @@
       "techniques": [
         "Sliding Window",
         "Binary Search",
-        "Binary Search + Two Pointers / Sliding Window"
+        "Binary Search + Two Pointers / Sliding Window",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -27755,7 +27802,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Difference Array / Range Update"
+        "Difference Array / Range Update",
+        "Simulation"
       ]
     },
     {
@@ -28004,7 +28052,9 @@
       ],
       "rating": 1287.1053917452,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1104,
@@ -29014,7 +29064,8 @@
         "Greedy",
         "Two Pointers",
         "Sequence DP (LCS / Edit Distance)",
-        "Two-Pointer Greedy"
+        "Two-Pointer Greedy",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -29363,7 +29414,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Breadth-First Search",
-        "Grid DP"
+        "Grid DP",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -30288,7 +30340,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Math / Number Theory"
       ]
     },
     {
@@ -30822,7 +30875,9 @@
       ],
       "rating": 1391.7243180131,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1223,
@@ -31328,7 +31383,9 @@
       ],
       "rating": 1558.1421869292,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1244,
@@ -31517,7 +31574,9 @@
       ],
       "rating": 1983.2319731313,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 1251,
@@ -31557,7 +31616,9 @@
       ],
       "rating": 1283.4980318021,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1253,
@@ -31619,7 +31680,8 @@
       "techniques": [
         "Union-Find",
         "Depth-First Search",
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -31820,7 +31882,9 @@
       ],
       "rating": 1337.3722299775,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1261,
@@ -32224,7 +32288,9 @@
       ],
       "rating": 1336.9494482313,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1276,
@@ -33191,7 +33257,8 @@
       "rating": 1836.536348078,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Trie"
+        "Trie",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -33359,7 +33426,9 @@
       ],
       "rating": 1328.7281033317,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1325,
@@ -33526,7 +33595,9 @@
       ],
       "rating": 1355.9817184778,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Coordinate Compression"
+      ]
     },
     {
       "lc_id": 1332,
@@ -34814,7 +34885,9 @@
       ],
       "rating": 1285.9726675488,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "LRU/LFU Cache Design"
+      ]
     },
     {
       "lc_id": 1382,
@@ -35041,7 +35114,9 @@
       ],
       "rating": 1208.0417047337,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1390,
@@ -35125,7 +35200,9 @@
       ],
       "rating": 1876.146019008,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 1393,
@@ -35244,7 +35321,8 @@
       "rating": 2666.668150845,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -35420,7 +35498,8 @@
       "rating": 1396.5990609759,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Simulation"
       ]
     },
     {
@@ -35519,7 +35598,9 @@
       ],
       "rating": 1223.3861903833,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 1409,
@@ -35544,7 +35625,8 @@
       "rating": 1334.5718985411,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Simulation"
       ]
     },
     {
@@ -36305,7 +36387,9 @@
       ],
       "rating": 1180.3543157775,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1442,
@@ -36464,7 +36548,9 @@
       ],
       "rating": 1268.5768566953,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 1448,
@@ -36642,7 +36728,8 @@
       "rating": 1125.575238274,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -36794,7 +36881,8 @@
       "rating": 1504.0178888667,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -37092,7 +37180,9 @@
       ],
       "rating": 1453.7818053022,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "LRU/LFU Cache Design"
+      ]
     },
     {
       "lc_id": 1473,
@@ -37625,7 +37715,9 @@
       ],
       "rating": 1231.999241335,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 1493,
@@ -37900,7 +37992,9 @@
       ],
       "rating": 1618.6016480451,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1504,
@@ -38280,7 +38374,9 @@
       ],
       "rating": 1245.2999833877,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1519,
@@ -38710,7 +38806,9 @@
       ],
       "rating": 1433.0795554833,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1536,
@@ -38950,7 +39048,8 @@
       "rating": 1479.4837595809,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Recursion"
+        "Recursion",
+        "Simulation"
       ]
     },
     {
@@ -39293,7 +39392,9 @@
       ],
       "rating": 1443.2353621969,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1561,
@@ -39359,7 +39460,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Simulation"
       ]
     },
     {
@@ -39897,7 +39999,9 @@
       ],
       "rating": 1658.3305547865,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1584,
@@ -40315,7 +40419,9 @@
       ],
       "rating": 1548.0854419238,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1600,
@@ -40425,7 +40531,9 @@
       ],
       "rating": 1324.1757200103,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1604,
@@ -40508,7 +40616,9 @@
       ],
       "rating": 2275.7337818748,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1607,
@@ -40920,7 +41030,8 @@
       "rating": 2476.451764287,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Math / Number Theory"
       ]
     },
     {
@@ -41044,7 +41155,8 @@
       "rating": 2221.3538766773,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Union-Find"
+        "Union-Find",
+        "Math / Number Theory"
       ]
     },
     {
@@ -41209,7 +41321,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Union-Find",
-        "Topological Sort"
+        "Topological Sort",
+        "Coordinate Compression"
       ]
     },
     {
@@ -41526,7 +41639,9 @@
       ],
       "rating": 1301.4027057843,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1647,
@@ -42137,7 +42252,8 @@
       "rating": 1395.5132479177,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -42447,7 +42563,8 @@
       "rating": 1629.5416832545,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Simulation"
       ]
     },
     {
@@ -42685,7 +42802,9 @@
       ],
       "rating": 1203.1408035909,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1689,
@@ -42984,7 +43103,9 @@
       ],
       "rating": 1404.1839222,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1701,
@@ -43004,7 +43125,9 @@
       ],
       "rating": 1436.3892315914,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1702,
@@ -43131,7 +43254,9 @@
       ],
       "rating": 1764.9170564773,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1707,
@@ -43306,7 +43431,8 @@
       "techniques": [
         "Greedy",
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Coordinate Compression"
       ]
     },
     {
@@ -43440,7 +43566,9 @@
       ],
       "rating": 3018.4940165727,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1720,
@@ -43866,7 +43994,9 @@
       ],
       "rating": 2499.5640490579,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 1736,
@@ -44386,7 +44516,8 @@
       "techniques": [
         "Bit Manipulation",
         "Two Pointers",
-        "Bitmask DP"
+        "Bitmask DP",
+        "Meet in the Middle"
       ]
     },
     {
@@ -44610,7 +44741,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Two Pointers"
+        "Two Pointers",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -44636,7 +44768,8 @@
       "rating": 1782.9801784101,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -44670,7 +44803,8 @@
       "rating": 2231.8099102949,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Depth-First Search"
+        "Depth-First Search",
+        "Math / Number Theory"
       ]
     },
     {
@@ -45428,7 +45562,9 @@
       ],
       "rating": 1534.0648719302,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "LRU/LFU Cache Design"
+      ]
     },
     {
       "lc_id": 1798,
@@ -45498,7 +45634,8 @@
       "techniques": [
         "Backtracking",
         "Bit Manipulation",
-        "Bitmask DP"
+        "Bitmask DP",
+        "Math / Number Theory"
       ]
     },
     {
@@ -45539,7 +45676,9 @@
       ],
       "rating": 1711.1205064321,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1802,
@@ -45666,7 +45805,9 @@
       ],
       "rating": 1491.4638194905,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1807,
@@ -45715,7 +45856,8 @@
       "rating": 2070.2102619334,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Recursion"
+        "Recursion",
+        "Math / Number Theory"
       ]
     },
     {
@@ -46000,7 +46142,9 @@
       ],
       "rating": 2539.863726397,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 1820,
@@ -46097,7 +46241,8 @@
       "rating": 1412.3053230205,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Recursion"
+        "Recursion",
+        "Simulation"
       ]
     },
     {
@@ -46376,7 +46521,9 @@
       ],
       "rating": 1797.7466000366,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Two-Heaps"
+      ]
     },
     {
       "lc_id": 1835,
@@ -46778,7 +46925,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Sweep Line"
       ]
     },
     {
@@ -47018,7 +47166,9 @@
       ],
       "rating": 1387.2941868867,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1861,
@@ -47872,7 +48022,8 @@
         "Binary Search",
         "Prefix Sum",
         "Prefix Sum + Binary Search",
-        "Classic Search in Sorted Array"
+        "Classic Search in Sorted Array",
+        "Simulation"
       ]
     },
     {
@@ -48283,7 +48434,9 @@
       ],
       "rating": 1460.9105672071,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1911,
@@ -48381,7 +48534,9 @@
       ],
       "rating": 1766.2506177612,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1915,
@@ -48537,7 +48692,9 @@
       ],
       "rating": 1160.4439395369,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1921,
@@ -48620,7 +48777,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -48768,7 +48926,9 @@
       ],
       "rating": 1132.6812943289,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1930,
@@ -49111,7 +49271,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Prefix Sum + Hash Table"
+        "Prefix Sum + Hash Table",
+        "Coordinate Compression"
       ]
     },
     {
@@ -49158,7 +49319,9 @@
       ],
       "rating": 1254.8626139269,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 1946,
@@ -49345,7 +49508,8 @@
       "rating": 1203.7504950404,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Brute Force / Enumeration"
+        "Brute Force / Enumeration",
+        "Math / Number Theory"
       ]
     },
     {
@@ -49553,7 +49717,8 @@
       "rating": 2690.5859406179,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -49826,7 +49991,8 @@
         "Depth-First Search",
         "Breadth-First Search",
         "Binary Search",
-        "Binary Search + Graph Feasibility (Parametric Search)"
+        "Binary Search + Graph Feasibility (Parametric Search)",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -50044,7 +50210,9 @@
       ],
       "rating": 1184.4264833435,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 1980,
@@ -50470,7 +50638,8 @@
       "techniques": [
         "Bit Manipulation",
         "Bitmask DP",
-        "Counting DP"
+        "Counting DP",
+        "Math / Number Theory"
       ]
     },
     {
@@ -50588,7 +50757,8 @@
       "rating": 2429.0940568399,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Union-Find"
+        "Union-Find",
+        "Math / Number Theory"
       ]
     },
     {
@@ -50667,7 +50837,9 @@
       ],
       "rating": 1435.9559888935,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2002,
@@ -50951,7 +51123,9 @@
       ],
       "rating": 1165.2135167215,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2012,
@@ -51246,7 +51420,9 @@
       ],
       "rating": 1307.3265298181,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2023,
@@ -51407,7 +51583,9 @@
       ],
       "rating": 1444.6795731919,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2029,
@@ -51653,7 +51831,8 @@
         "Two Pointers",
         "Binary Search",
         "Bitmask DP",
-        "Binary Search Optimized DP"
+        "Binary Search Optimized DP",
+        "Meet in the Middle"
       ]
     },
     {
@@ -51846,7 +52025,9 @@
       ],
       "rating": 1356.1920189231,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2044,
@@ -52202,7 +52383,8 @@
       "rating": 2610.9906730644,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Backtracking"
+        "Backtracking",
+        "Simulation"
       ]
     },
     {
@@ -52495,7 +52677,9 @@
       ],
       "rating": 1918.9960035055,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2070,
@@ -52608,7 +52792,9 @@
       ],
       "rating": 1325.3607218257,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2074,
@@ -52644,7 +52830,9 @@
       ],
       "rating": 1759.2287478055,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2076,
@@ -52725,7 +52913,9 @@
       ],
       "rating": 1320.6485731562,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2080,
@@ -53138,7 +53328,8 @@
       "rating": 1324.3520304377,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Floyd's Cycle Detection"
       ]
     },
     {
@@ -53417,7 +53608,8 @@
       "rating": 1507.1617507911,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -53531,7 +53723,8 @@
       "rating": 1315.1890809249,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -53724,7 +53917,9 @@
       ],
       "rating": 2476.7727985927,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2118,
@@ -53776,7 +53971,9 @@
       ],
       "rating": 1379.8787648129,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2121,
@@ -54041,7 +54238,8 @@
       "rating": 1317.9207508583,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Floyd's Cycle Detection"
       ]
     },
     {
@@ -54256,7 +54454,9 @@
       ],
       "rating": 1273.046473797,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2139,
@@ -54528,7 +54728,8 @@
       "rating": 1235.9216009709,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -54673,7 +54874,9 @@
       ],
       "rating": 1235.8413685224,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2155,
@@ -54718,7 +54921,8 @@
       "rating": 2062.9876807625,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sliding Window"
+        "Sliding Window",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -54846,7 +55050,8 @@
       "rating": 1337.6115578703,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -55035,7 +55240,9 @@
       ],
       "rating": 1199.8592887103,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2170,
@@ -55231,7 +55438,9 @@
       ],
       "rating": 1257.1556875655,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2178,
@@ -55324,7 +55533,9 @@
       ],
       "rating": 1257.1166915286,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2181,
@@ -55344,7 +55555,9 @@
       ],
       "rating": 1333.192050397,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2182,
@@ -55411,7 +55624,9 @@
       ],
       "rating": 2246.0452639352,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2184,
@@ -55463,7 +55678,9 @@
       ],
       "rating": 1167.1241589729,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 2186,
@@ -55764,7 +55981,9 @@
       ],
       "rating": 2057.4788263111,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2198,
@@ -55850,7 +56069,9 @@
       ],
       "rating": 1525.2146106195,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2202,
@@ -56097,7 +56318,9 @@
       ],
       "rating": 1581.4963716166,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2212,
@@ -56343,7 +56566,10 @@
       ],
       "rating": 1317.2976846981,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation",
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2222,
@@ -56409,7 +56635,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -56878,7 +57105,9 @@
       ],
       "rating": 1301.9432665133,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2244,
@@ -57265,7 +57494,9 @@
       ],
       "rating": 1708.7056764058,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2258,
@@ -57389,7 +57620,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Trie"
+        "Trie",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -57905,7 +58137,9 @@
       ],
       "rating": 1680.866917849,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2281,
@@ -58157,7 +58391,8 @@
       "rating": 2481.8722909195,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Monotonic Stack"
+        "Monotonic Stack",
+        "Simulation"
       ]
     },
     {
@@ -58253,7 +58488,9 @@
       ],
       "rating": 1241.0825147417,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2294,
@@ -58304,7 +58541,9 @@
       ],
       "rating": 1445.1422945604,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2296,
@@ -58340,7 +58579,9 @@
       ],
       "rating": 1911.8282317986,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2297,
@@ -58468,7 +58709,9 @@
       ],
       "rating": 1860.5166780235,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 2302,
@@ -58522,7 +58765,9 @@
       ],
       "rating": 1283.6412252736,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2304,
@@ -59101,7 +59346,9 @@
       ],
       "rating": 1421.7251191403,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2327,
@@ -59126,7 +59373,8 @@
       "rating": 1893.5143805402,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Linear DP"
+        "Linear DP",
+        "Simulation"
       ]
     },
     {
@@ -59447,7 +59695,9 @@
       ],
       "rating": 2615.1468269481,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2339,
@@ -59609,7 +59859,9 @@
       ],
       "rating": 1640.8976042503,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2345,
@@ -59810,7 +60062,9 @@
       ],
       "rating": 1286.3841359213,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2353,
@@ -59960,7 +60214,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Difference/Frequency Greedy"
+        "Difference/Frequency Greedy",
+        "Simulation"
       ]
     },
     {
@@ -60163,7 +60418,9 @@
       ],
       "rating": 1622.7743864401,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2366,
@@ -60546,7 +60803,8 @@
       "rating": 1481.1046340847,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Simulation"
       ]
     },
     {
@@ -60822,7 +61080,9 @@
       ],
       "rating": 1347.8521638635,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2391,
@@ -61154,7 +61414,9 @@
       ],
       "rating": 2092.8943149547,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2403,
@@ -61479,7 +61741,9 @@
       ],
       "rating": 1144.9508874557,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2414,
@@ -61863,7 +62127,8 @@
         "Divide and Conquer",
         "Binary Search",
         "Segment Tree / Fenwick Tree",
-        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+        "Coordinate Compression"
       ]
     },
     {
@@ -61889,7 +62154,8 @@
       "rating": 1172.0548998046,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Brute Force / Enumeration"
+        "Brute Force / Enumeration",
+        "Math / Number Theory"
       ]
     },
     {
@@ -61974,7 +62240,8 @@
       "rating": 2101.867342004,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -62431,7 +62698,9 @@
       ],
       "rating": 1602.7742849665,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2448,
@@ -62789,7 +63058,8 @@
       "rating": 1223.9335618833,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -62845,7 +63115,8 @@
       "rating": 1763.6404758359,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -63043,7 +63314,9 @@
       ],
       "rating": 1559.9709348417,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2471,
@@ -63357,7 +63630,9 @@
       ],
       "rating": 1372.5139179378,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2483,
@@ -63836,7 +64111,9 @@
       ],
       "rating": 1309.7266159448,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2501,
@@ -63900,7 +64177,9 @@
       ],
       "rating": 1745.5352025872,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2503,
@@ -64050,7 +64329,10 @@
       ],
       "rating": 1499.5903720292,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation",
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2508,
@@ -64198,7 +64480,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Math / Number Theory"
       ]
     },
     {
@@ -64416,7 +64699,9 @@
       ],
       "rating": 1413.0376809608,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2522,
@@ -64464,7 +64749,9 @@
       ],
       "rating": 1649.7120733311,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2524,
@@ -64716,7 +65003,9 @@
       ],
       "rating": 2588.8752130913,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2533,
@@ -65001,7 +65290,9 @@
       ],
       "rating": 2220.8257124139,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2544,
@@ -65145,7 +65436,9 @@
       ],
       "rating": 1265.8320564115,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2550,
@@ -65255,7 +65548,9 @@
       ],
       "rating": 1216.612918849,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2554,
@@ -65408,7 +65703,9 @@
       ],
       "rating": 1276.7817742915,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2559,
@@ -65524,7 +65821,8 @@
       "rating": 1259.949137745,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -65805,7 +66103,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Bitmask DP"
+        "Bitmask DP",
+        "Math / Number Theory"
       ]
     },
     {
@@ -66089,7 +66388,9 @@
       ],
       "rating": 1278.0092842613,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2583,
@@ -66147,7 +66448,9 @@
       ],
       "rating": 2159.4844281244,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2585,
@@ -66413,7 +66716,9 @@
       ],
       "rating": 1665.1885910815,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2594,
@@ -66488,7 +66793,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Depth-First Search",
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Simulation"
       ]
     },
     {
@@ -66645,7 +66951,8 @@
         "Greedy",
         "Binary Search",
         "Local Max/Min at Each Step",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Math / Number Theory"
       ]
     },
     {
@@ -66792,7 +67099,7 @@
       "rating": 1422.3308967485,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sequence DP (LCS / Edit Distance)"
+        "Linear DP"
       ]
     },
     {
@@ -66827,7 +67134,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Math / Number Theory"
       ]
     },
     {
@@ -67016,7 +67324,9 @@
       ],
       "rating": 1375.4261931199,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2615,
@@ -67727,7 +68037,9 @@
       ],
       "rating": 1928.7961204946,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2655,
@@ -67898,7 +68210,9 @@
       ],
       "rating": 1324.1714505166,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2661,
@@ -68261,7 +68575,9 @@
       ],
       "rating": 1333.0179956774,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2680,
@@ -68355,7 +68671,9 @@
       ],
       "rating": 1382.6941570342,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2683,
@@ -68597,7 +68915,9 @@
       ],
       "rating": 1282.3870247003,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2697,
@@ -68890,7 +69210,8 @@
       "rating": 2171.9645269732,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Union-Find"
+        "Union-Find",
+        "Math / Number Theory"
       ]
     },
     {
@@ -69082,7 +69403,9 @@
       ],
       "rating": 1295.75504698,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2718,
@@ -69518,7 +69841,9 @@
       ],
       "rating": 1262.100652797,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2740,
@@ -69643,7 +69968,9 @@
       ],
       "rating": 1405.8938478338,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2745,
@@ -69761,7 +70088,9 @@
       ],
       "rating": 1301.1576743638,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2749,
@@ -69840,7 +70169,9 @@
       ],
       "rating": 2091.6474629767,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2752,
@@ -69984,7 +70315,8 @@
       "rating": 1504.9263037499,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Brute Force / Enumeration"
+        "Brute Force / Enumeration",
+        "Math / Number Theory"
       ]
     },
     {
@@ -70127,7 +70459,9 @@
       ],
       "rating": 1613.2485081262,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2767,
@@ -70953,7 +71287,9 @@
       ],
       "rating": 1279.0301521682,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2808,
@@ -71019,7 +71355,9 @@
       ],
       "rating": 1192.9770230345,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2811,
@@ -71086,7 +71424,8 @@
         "Union-Find",
         "Breadth-First Search",
         "Binary Search",
-        "Binary Search + Graph Feasibility (Parametric Search)"
+        "Binary Search + Graph Feasibility (Parametric Search)",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -71264,7 +71603,8 @@
       "techniques": [
         "Greedy",
         "Monotonic Stack",
-        "Sort + Scan"
+        "Sort + Scan",
+        "Math / Number Theory"
       ]
     },
     {
@@ -72075,7 +72415,8 @@
       "rating": 2857.6543956169,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -72354,7 +72695,9 @@
       ],
       "rating": 2291.6794536377,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 2863,
@@ -72495,7 +72838,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Depth-First Search",
-        "Tree DP"
+        "Tree DP",
+        "Math / Number Theory"
       ]
     },
     {
@@ -73080,7 +73424,9 @@
       ],
       "rating": 1372.4759842416,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2900,
@@ -73734,7 +74080,8 @@
         "Binary Search",
         "Segment Tree / Fenwick Tree",
         "Linear DP",
-        "Binary Search Optimized DP"
+        "Binary Search Optimized DP",
+        "Coordinate Compression"
       ]
     },
     {
@@ -74309,7 +74656,9 @@
       ],
       "rating": 1405.8442434352,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2947,
@@ -74348,7 +74697,8 @@
       "techniques": [
         "Brute Force / Enumeration",
         "Prefix Sum",
-        "Prefix Sum + Hash Table"
+        "Prefix Sum + Hash Table",
+        "Math / Number Theory"
       ]
     },
     {
@@ -74409,7 +74759,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "Prefix Sum + Hash Table"
+        "Prefix Sum + Hash Table",
+        "Math / Number Theory"
       ]
     },
     {
@@ -74615,7 +74966,6 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)",
         "Local Max/Min at Each Step"
       ]
     },
@@ -74703,7 +75053,9 @@
       ],
       "rating": 1169.4209117977,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2961,
@@ -74727,7 +75079,9 @@
       ],
       "rating": 1450.6986543984,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2962,
@@ -74825,7 +75179,9 @@
       ],
       "rating": 1244.8064626533,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Cyclic Sort / Index-as-Hash"
+      ]
     },
     {
       "lc_id": 2966,
@@ -75116,7 +75472,9 @@
       ],
       "rating": 1184.8359383057,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 2975,
@@ -75879,7 +76237,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Binary Search + Two Pointers / Sliding Window"
+        "Binary Search + Two Pointers / Sliding Window",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -75952,7 +76311,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Binary Search + Two Pointers / Sliding Window"
+        "Binary Search + Two Pointers / Sliding Window",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -76075,7 +76435,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Difference/Frequency Greedy"
+        "Difference/Frequency Greedy",
+        "Math / Number Theory"
       ]
     },
     {
@@ -76105,7 +76466,8 @@
       "rating": 2540.438150736,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sliding Window"
+        "Sliding Window",
+        "Two-Heaps"
       ]
     },
     {
@@ -76505,7 +76867,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "1D Range Sum Query"
+        "1D Range Sum Query",
+        "Simulation"
       ]
     },
     {
@@ -76534,7 +76897,9 @@
       ],
       "rating": 1659.6231386056,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 3030,
@@ -76582,7 +76947,9 @@
       ],
       "rating": 2277.9557248587,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 3032,
@@ -76654,7 +77021,9 @@
       ],
       "rating": 1383.775103528,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 3035,
@@ -76721,7 +77090,9 @@
       ],
       "rating": 1894.5496928891,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 3037,
@@ -76777,7 +77148,9 @@
       ],
       "rating": 1201.781034405,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3039,
@@ -76894,7 +77267,8 @@
       "rating": 1214.2480880984,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Trie"
+        "Trie",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -76966,7 +77340,8 @@
       "rating": 1737.2065180671,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Brute Force / Enumeration"
+        "Brute Force / Enumeration",
+        "Math / Number Theory"
       ]
     },
     {
@@ -77004,7 +77379,8 @@
       "rating": 2327.5726642605,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Trie"
+        "Trie",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -77400,7 +77776,9 @@
       ],
       "rating": 1399.5303229631,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3067,
@@ -77487,7 +77865,9 @@
       ],
       "rating": 1203.7972421795,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3070,
@@ -77571,7 +77951,8 @@
       "rating": 2052.8622720512,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Simulation"
       ]
     },
     {
@@ -77784,7 +78165,9 @@
       ],
       "rating": 1607.9038975431,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3081,
@@ -78281,7 +78664,9 @@
       ],
       "rating": 1366.2964979576,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3101,
@@ -78661,7 +79046,9 @@
       ],
       "rating": 1294.4633357092,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3116,
@@ -78700,7 +79087,8 @@
       "techniques": [
         "Bit Manipulation",
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Math / Number Theory"
       ]
     },
     {
@@ -79784,7 +80172,9 @@
       ],
       "rating": 1517.259649092,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3161,
@@ -79819,7 +80209,8 @@
       "techniques": [
         "Binary Search",
         "Segment Tree / Fenwick Tree",
-        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+        "Coordinate Compression"
       ]
     },
     {
@@ -79972,7 +80363,9 @@
       ],
       "rating": 1211.0565182538,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3169,
@@ -80120,7 +80513,9 @@
       ],
       "rating": 1255.1762583835,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3175,
@@ -80140,7 +80535,9 @@
       ],
       "rating": 1488.4453801606,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3176,
@@ -80212,7 +80609,9 @@
       ],
       "rating": 1255.54117313,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3179,
@@ -80246,7 +80645,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "1D Range Sum Query"
+        "1D Range Sum Query",
+        "Simulation"
       ]
     },
     {
@@ -81304,7 +81704,8 @@
       "rating": 1269.9581395809,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Game Theory"
+        "Game Theory",
+        "Simulation"
       ]
     },
     {
@@ -81579,7 +81980,9 @@
       ],
       "rating": 1509.4385872781,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3234,
@@ -81820,7 +82223,9 @@
       ],
       "rating": 1334.3626351798,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3243,
@@ -81971,7 +82376,9 @@
       ],
       "rating": 1171.7635387886,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3249,
@@ -82276,7 +82683,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Sequence DP (LCS / Edit Distance)"
+        "Sequence DP (LCS / Edit Distance)",
+        "Math / Number Theory"
       ]
     },
     {
@@ -82383,7 +82791,9 @@
       ],
       "rating": 1177.5447304844,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3265,
@@ -82441,7 +82851,9 @@
       ],
       "rating": 2508.6766880695,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3267,
@@ -82547,7 +82959,9 @@
       ],
       "rating": 1292.7322849355,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3272,
@@ -83001,7 +83415,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Coordinate Compression"
       ]
     },
     {
@@ -83026,7 +83441,9 @@
       ],
       "rating": 1163.7681706816,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Cyclic Sort / Index-as-Hash"
+      ]
     },
     {
       "lc_id": 3290,
@@ -83107,7 +83524,8 @@
         "Segment Tree / Fenwick Tree",
         "Sequence DP (LCS / Edit Distance)",
         "Interval Merging/Covering",
-        "Binary Search Optimized DP"
+        "Binary Search Optimized DP",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -83162,7 +83580,8 @@
         "Segment Tree / Fenwick Tree",
         "Sequence DP (LCS / Edit Distance)",
         "Interval Merging/Covering",
-        "Binary Search Optimized DP"
+        "Binary Search Optimized DP",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -83438,7 +83857,9 @@
       ],
       "rating": 2509.3686325754,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 3304,
@@ -83468,7 +83889,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Recursion",
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Simulation"
       ]
     },
     {
@@ -83694,7 +84116,8 @@
         "Binary Search",
         "Prefix Sum",
         "Prefix Sum + Hash Table",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Math / Number Theory"
       ]
     },
     {
@@ -83929,7 +84352,8 @@
       "rating": 2598.4563109814,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sliding Window"
+        "Sliding Window",
+        "Two-Heaps"
       ]
     },
     {
@@ -83994,7 +84418,9 @@
       ],
       "rating": 1293.5035781966,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3325,
@@ -84050,7 +84476,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Local Max/Min at Each Step"
+        "Local Max/Min at Each Step",
+        "Math / Number Theory"
       ]
     },
     {
@@ -84257,7 +84684,9 @@
       ],
       "rating": 1518.7783368146,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3335,
@@ -84321,7 +84750,8 @@
       "rating": 2402.5406421988,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Linear DP"
+        "Linear DP",
+        "Math / Number Theory"
       ]
     },
     {
@@ -84655,7 +85085,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Greedy",
-        "Backtracking"
+        "Backtracking",
+        "Math / Number Theory"
       ]
     },
     {
@@ -84793,7 +85224,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "1D Range Sum Query"
+        "1D Range Sum Query",
+        "Simulation"
       ]
     },
     {
@@ -84943,7 +85375,9 @@
       ],
       "rating": 1267.4622869026,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3361,
@@ -85415,7 +85849,8 @@
       "rating": 2186.3802199168,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Single-Source Shortest Path (Dijkstra / Bellman-Ford)"
+        "Single-Source Shortest Path (Dijkstra / Bellman-Ford)",
+        "Math / Number Theory"
       ]
     },
     {
@@ -85449,7 +85884,8 @@
       "rating": 2532.0192714689,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Union-Find"
+        "Union-Find",
+        "Math / Number Theory"
       ]
     },
     {
@@ -85470,7 +85906,9 @@
       ],
       "rating": 1256.5677464981,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3380,
@@ -85512,7 +85950,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Coordinate Compression"
       ]
     },
     {
@@ -85577,7 +86016,8 @@
       "rating": 2722.8634460016,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Coordinate Compression"
       ]
     },
     {
@@ -86186,7 +86626,9 @@
       ],
       "rating": 1472.7215747162,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 3408,
@@ -86312,7 +86754,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Brute Force / Enumeration",
-        "Sliding Window"
+        "Sliding Window",
+        "Math / Number Theory"
       ]
     },
     {
@@ -86341,7 +86784,9 @@
       ],
       "rating": 1578.4458037997,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3413,
@@ -86485,7 +86930,9 @@
       ],
       "rating": 1290.1726293694,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3418,
@@ -86922,7 +87369,9 @@
       ],
       "rating": 1745.073572838,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3434,
@@ -87233,7 +87682,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Bit Manipulation",
-        "Bitmask DP"
+        "Bitmask DP",
+        "Math / Number Theory"
       ]
     },
     {
@@ -87435,7 +87885,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "Coordinate Compression"
       ]
     },
     {
@@ -87467,7 +87918,9 @@
       "techniques": [
         "Binary Search",
         "Segment Tree / Fenwick Tree",
-        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+        "Sweep Line",
+        "Coordinate Compression"
       ]
     },
     {
@@ -87499,7 +87952,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Binary Search + Two Pointers / Sliding Window"
+        "Binary Search + Two Pointers / Sliding Window",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -87661,7 +88115,10 @@
       ],
       "rating": 1189.3715646147,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation",
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3462,
@@ -87724,7 +88181,9 @@
       ],
       "rating": 2286.2394574531,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3464,
@@ -87984,7 +88443,8 @@
       "rating": 2605.3698165497,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -88064,7 +88524,8 @@
       "techniques": [
         "Binary Search",
         "Segment Tree / Fenwick Tree",
-        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+        "Simulation"
       ]
     },
     {
@@ -88538,7 +88999,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Prefix Sum",
-        "1D Range Sum Query"
+        "1D Range Sum Query",
+        "Simulation"
       ]
     },
     {
@@ -88621,7 +89083,9 @@
       ],
       "rating": 1201.2843019238,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3499,
@@ -88885,7 +89349,9 @@
       ],
       "rating": 1348.7475033007,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3508,
@@ -88988,7 +89454,9 @@
       ],
       "rating": 2608.014730401,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3511,
@@ -89302,7 +89770,9 @@
       ],
       "rating": 1238.9187002982,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3523,
@@ -89505,7 +89975,9 @@
       ],
       "rating": 2105.0143242092,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "KMP / Rolling Hash"
+      ]
     },
     {
       "lc_id": 3530,
@@ -90308,7 +90780,9 @@
       ],
       "rating": 1439.5495237432,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3557,
@@ -90446,7 +90920,9 @@
       ],
       "rating": 1397.240044812,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3562,
@@ -90667,7 +91143,8 @@
       "rating": 2697.378123783,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Math / Number Theory"
       ]
     },
     {
@@ -90786,7 +91263,8 @@
       "rating": 2257.804093726,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Brute Force / Enumeration"
+        "Brute Force / Enumeration",
+        "Math / Number Theory"
       ]
     },
     {
@@ -91006,7 +91484,9 @@
       ],
       "rating": 1316.5911628575,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3583,
@@ -91209,7 +91689,8 @@
       "rating": 2235.2155688741,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sliding Window"
+        "Sliding Window",
+        "Math / Number Theory"
       ]
     },
     {
@@ -91272,7 +91753,9 @@
       ],
       "rating": 1234.5443176819,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3592,
@@ -91433,7 +91916,8 @@
       "rating": 1347.3098248123,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Trie"
+        "Trie",
+        "Simulation"
       ]
     },
     {
@@ -91653,7 +92137,8 @@
         "Greedy",
         "Binary Search",
         "Segment Tree / Fenwick Tree",
-        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)"
+        "Binary Search + Data Structure (Segment Tree / BIT / Ordered Set)",
+        "Math / Number Theory"
       ]
     },
     {
@@ -91842,7 +92327,9 @@
       ],
       "rating": 1185.9709727214,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3613,
@@ -91894,7 +92381,9 @@
       ],
       "rating": 2010.6191768155,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3615,
@@ -91985,7 +92474,9 @@
       ],
       "rating": 1227.21323323,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3619,
@@ -92314,7 +92805,8 @@
       "rating": 2139.3079901181,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Math / Number Theory"
       ]
     },
     {
@@ -92964,7 +93456,8 @@
       "techniques": [
         "Divide and Conquer",
         "Prefix Sum",
-        "Difference Array / Range Update"
+        "Difference Array / Range Update",
+        "Simulation"
       ]
     },
     {
@@ -93088,7 +93581,9 @@
       ],
       "rating": 1220.0626125523,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3659,
@@ -93385,7 +93880,8 @@
       "rating": 1917.0816751666,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Backtracking"
+        "Backtracking",
+        "Math / Number Theory"
       ]
     },
     {
@@ -93441,7 +93937,8 @@
       "rating": 2647.1423924149,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Math / Number Theory"
       ]
     },
     {
@@ -93634,7 +94131,8 @@
       "rating": 1638.8790725205,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Sliding Window"
+        "Sliding Window",
+        "Simulation"
       ]
     },
     {
@@ -93855,7 +94353,8 @@
       "rating": 1204.8779687384,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Bit Manipulation"
+        "Bit Manipulation",
+        "Simulation"
       ]
     },
     {
@@ -94175,7 +94674,9 @@
       ],
       "rating": 1228.2540685683,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3702,
@@ -94221,7 +94722,9 @@
       ],
       "rating": 1802.0481850881,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3704,
@@ -94534,7 +95037,8 @@
       "rating": 2235.444767608,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Depth-First Search"
+        "Depth-First Search",
+        "Math / Number Theory"
       ]
     },
     {
@@ -94805,7 +95309,8 @@
       "rating": 1981.8184570058,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Grid DP"
+        "Grid DP",
+        "Math / Number Theory"
       ]
     },
     {
@@ -94826,7 +95331,9 @@
       ],
       "rating": 1175.637563525,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3727,
@@ -95863,7 +96370,8 @@
       "rating": 1378.316399102,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Brute Force / Enumeration"
+        "Brute Force / Enumeration",
+        "Math / Number Theory"
       ]
     },
     {
@@ -95998,7 +96506,9 @@
       ],
       "rating": 1546.5755826126,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3771,
@@ -96127,7 +96637,8 @@
       "rating": 1391.9600023546,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -97025,7 +97536,9 @@
       ],
       "rating": 1216.4439953203,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3814,
@@ -97176,7 +97689,9 @@
       ],
       "rating": 1381.4199385224,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3820,
@@ -97269,7 +97784,8 @@
       "rating": 1250.1561837398,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation"
       ]
     },
     {
@@ -97564,7 +98080,9 @@
       ],
       "rating": 1428.6483320166,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3835,
@@ -97656,7 +98174,9 @@
       ],
       "rating": 1240.5761017553,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3839,
@@ -97779,7 +98299,9 @@
       ],
       "rating": 1160.9529516199,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3843,
@@ -97916,7 +98438,9 @@
       ],
       "rating": 1223.4978877568,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3848,
@@ -97995,7 +98519,9 @@
       ],
       "rating": 1964.6174369373,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3851,
@@ -98122,7 +98648,8 @@
       "rating": 2085.3980002157,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Divide and Conquer"
+        "Divide and Conquer",
+        "Math / Number Theory"
       ]
     },
     {
@@ -98408,7 +98935,9 @@
       "rating": 1406.6278665696,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Two Pointers"
+        "Two Pointers",
+        "Simulation",
+        "Math / Number Theory"
       ]
     },
     {
@@ -99061,7 +99590,9 @@
       ],
       "rating": 1222.9538878773,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3895,
@@ -99120,7 +99651,8 @@
       "techniques": [
         "Two Pointers",
         "Binary Search",
-        "Binary Search + Two Pointers / Sliding Window"
+        "Binary Search + Two Pointers / Sliding Window",
+        "Math / Number Theory"
       ]
     },
     {
@@ -99251,7 +99783,8 @@
       "rating": 2544.8104481675,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Segment Tree / Fenwick Tree"
+        "Segment Tree / Fenwick Tree",
+        "Math / Number Theory"
       ]
     },
     {
@@ -99347,7 +99880,8 @@
       "rating": 1671.4061227694,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Breadth-First Search"
+        "Breadth-First Search",
+        "Multi-Source BFS"
       ]
     },
     {
@@ -99624,7 +100158,9 @@
       ],
       "rating": 1301.1804118587,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Math / Number Theory"
+      ]
     },
     {
       "lc_id": 3919,
@@ -99703,7 +100239,9 @@
       ],
       "rating": 1262.6558200509,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3922,
@@ -99743,7 +100281,9 @@
       ],
       "rating": 1883.4152059972,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3924,
@@ -99791,7 +100331,9 @@
       ],
       "rating": 1176.2218745016,
       "ratingSource": "zerotrak",
-      "techniques": []
+      "techniques": [
+        "Simulation"
+      ]
     },
     {
       "lc_id": 3926,
@@ -99852,7 +100394,8 @@
       "rating": 1651.6231918758,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Greedy"
+        "Greedy",
+        "Math / Number Theory"
       ]
     },
     {
@@ -100047,7 +100590,8 @@
       "ratingSource": "zerotrak",
       "techniques": [
         "Binary Search",
-        "Binary Search on Answer (Search Space)"
+        "Binary Search on Answer (Search Space)",
+        "KMP / Rolling Hash"
       ]
     },
     {
@@ -100539,7 +101083,8 @@
       "rating": 2390.1956069603,
       "ratingSource": "zerotrak",
       "techniques": [
-        "Brute Force / Enumeration"
+        "Brute Force / Enumeration",
+        "Math / Number Theory"
       ]
     },
     {
